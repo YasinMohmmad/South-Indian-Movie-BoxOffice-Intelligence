@@ -1,0 +1,43 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Jupyter / notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code local settings
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local environment / secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# Temporary / backup files
+*.tmp
+*.temp
+*.bak
+
+# Power BI temporary/backup files
+*.pbit
+*.pbix.autosave
+~$*.pbix

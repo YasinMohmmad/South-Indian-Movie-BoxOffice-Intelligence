@@ -1,0 +1,561 @@
+s.no,movie_title,genre,budget_cr,director_success_rate,lead_actor_success_rate,imdb,trailer_views_m,box_office_revenue,revenue_status,director_success_status,actor_success_status,profit_cr,roi_percent,hit_flop
+1,Aadavallu Meeku Johaarlu,Romance,20,71.42,51.72,5.8,9.5,7.72,Available,Recorded Success,Recorded Success,-12.28,-61.4,Flop
+2,Ala Modalaindi,Romance,4,66.6,65,7.6,0.97,15,Available,Recorded Success,Recorded Success,11,275,Hit
+3,Ammammagarillu,Romance,1.5,0,23,5.3,0.221,21.5,Available,No Recorded Success,Recorded Success,20,1333.333333,Hit
+4,Anni Manchi Sakunamule,Romance,12,66.6,22.22,6.1,3.7,4.45,Available,Recorded Success,Recorded Success,-7.55,-62.91666667,Flop
+5,Appudo Ippudo Eppudo,Romance,15,75,55,4.7,3.5,0.7,Available,Recorded Success,Recorded Success,-14.3,-95.33333333,Flop
+6,Arya 2,Romance,21,80,52.63,7.5,58,25,Available,Recorded Success,Recorded Success,4,19.04761905,Hit
+7,Ashoka Vanamlo Arjuna Kalyanam,Romance,10,66.66,30,7.4,3.2,9,Available,Recorded Success,Recorded Success,-1,-10,Flop
+8,Baby,Romance,10,80,33.3,7.1,22,80,Available,Recorded Success,Recorded Success,70,700,Hit
+9,Chal Mohan Ranga,Romance,25,33.33,29,5.9,10,8.5,Available,Recorded Success,Recorded Success,-16.5,-66,Flop
+10,Chitralahari,Romance,25,71.42,56.25,7.1,5.8,26.05,Available,Recorded Success,Recorded Success,1.05,4.2,Hit
+11,Color Photo,Romance,1,100,60,8.1,5.9,2.62,Available,Recorded Success,Recorded Success,1.62,162,Hit
+12,Dear Comrade,Romance,5,100,46.15,7.3,18,37.33,Available,Recorded Success,Recorded Success,32.33,646.6,Hit
+13,Desamuduru,Romance,10,47.05,52.63,6.2,1.1,36,Available,Recorded Success,Recorded Success,26,260,Hit
+14,DJ Tillu,Romance,5,25,85.71,7.2,15,125,Available,Recorded Success,Recorded Success,120,2400,Hit
+15,Endukante... Premanta,Romance,26,50,33,6,0.078,129,Available,Recorded Success,Recorded Success,103,396.1538462,Hit
+16,Hello Guru Prema Kosame,Romance,25,62.5,33,7.1,9.3,36,Available,Recorded Success,Recorded Success,11,44,Hit
+17,Hello!,Romance,14,55.55,40,7.3,13,17.82,Available,Recorded Success,Recorded Success,3.82,27.28571429,Hit
+18,Hi Nanna,Romance,70,100,65,8.2,2.8,74.57,Available,Recorded Success,Recorded Success,4.57,6.528571429,Hit
+19,Ishq,Romance,8,55.55,29,7.4,4.9,20,Available,Recorded Success,Recorded Success,12,150,Hit
+20,Kandireega,Romance,15,33.34,33,6.2,0.06,30,Available,Recorded Success,Recorded Success,15,100,Hit
+21,Kotha Bangaru Lokam,Romance,3.5,50,16,6.8,15,8,Available,Recorded Success,Recorded Success,4.5,128.5714286,Hit
+22,Kumari 21F,Romance,10.5,100,42.85,7.6,0.426,21,Available,Recorded Success,Recorded Success,10.5,100,Hit
+23,Majili,Romance,5,60,52,7.3,10,68.05,Available,Recorded Success,Recorded Success,63.05,1261,Hit
+24,Majnu,Romance,1.7,100,65,6.4,0.016,2.18,Available,Recorded Success,Recorded Success,0.48,28.23529412,Hit
+25,Malli Malli Idi Rani Roju,Romance,15,50,51.72,7.4,0.07,26.2,Available,Recorded Success,Recorded Success,11.2,74.66666667,Hit
+26,Manmadhudu 2,Romance,30,50,80,4.8,8.4,1,Available,Recorded Success,Recorded Success,-29,-96.66666667,Flop
+27,Mehbooba,Romance,22,47.05,25,4.6,5.9,3,Available,Recorded Success,Recorded Success,-19,-86.36363636,Flop
+28,Miss You,Romance,12,33.33,44,6.2,1,3.41,Available,Recorded Success,Recorded Success,-8.59,-71.58333333,Flop
+29,Month of Madhu,Romance,1.5,80,55.55,6.8,3.3,2.5,Available,Recorded Success,Recorded Success,1,66.66666667,Hit
+30,Most Eligible Bachelor,Romance,30,100,40,6.2,0.755,50,Available,Recorded Success,Recorded Success,20,66.66666667,Hit
+31,Nenu Sailaja,Romance,20,71.42,33,6.9,1.2,35.64,Available,Recorded Success,Recorded Success,15.64,78.2,Hit
+32,Ninu Kori,Romance,25,60,65,7.5,8.3,55,Available,Recorded Success,Recorded Success,30,120,Hit
+33,Padi Padi Leche Manasu,Romance,12,60,46.2,6.4,6.6,8,Available,Recorded Success,Recorded Success,-4,-33.33333333,Flop
+34,Prema Vimanam,Romance,3.5,100,100,6.1,0.485,4.5,Available,Recorded Success,Recorded Success,1,28.57142857,Hit
+35,Prince,Romance,4,75,68.75,4.4,5.5,30,Available,Recorded Success,Recorded Success,26,650,Hit
+36,Radhe Shyam,Romance,200,20,45.45,5.2,42,140,Available,Recorded Success,Recorded Success,-60,-30,Flop
+37,Rarandoi Veduka Chudham,Romance,15,75,52,5.6,4.8,50,Available,Recorded Success,Recorded Success,35,233.3333333,Hit
+38,Saahasam Swaasaga Saagipo,Romance,25,77.27,52,6.6,1.1,3.9,Available,Recorded Success,Recorded Success,-21.1,-84.4,Flop
+39,Sammathame,Romance,5,0,33.3,5.6,6,4.79,Available,No Recorded Success,Recorded Success,-0.21,-4.2,Flop
+40,Shyam Singha Roy,Romance,50,66.66,65,7.6,14,65,Available,Recorded Success,Recorded Success,15,30,Hit
+41,Sita Ramam,Romance,25,60,50,8.5,16,100,Available,Recorded Success,Recorded Success,75,300,Hit
+42,The Family Star,Romance,50,100,46.15,5.4,15,21.49,Available,Recorded Success,Recorded Success,-28.51,-57.02,Flop
+43,Tholi Prema,Romance,20,80,50,7.2,8.8,45,Available,Recorded Success,Recorded Success,25,125,Hit
+44,Uppena,Romance,14,100,50,6.5,31,105,Available,Recorded Success,Recorded Success,91,650,Hit
+45,Varudu Kaavalenu,Romance,8.6,30,50,6.4,5.4,6.1,Available,Recorded Success,Recorded Success,-2.5,-29.06976744,Flop
+46,Vinaro Bhagyamu Vishnu Katha,Romance,6.67,100,44.44,6.7,0.482,17.9,Available,Recorded Success,Recorded Success,11.23,168.3658171,Hit
+47,World Famous Lover,Romance,23,50,46.15,6.9,15,8.6,Available,Recorded Success,Recorded Success,-14.4,-62.60869565,Flop
+48,Yeto Vellipoyindhi Manasu,Romance,13,77.27,65,7.3,0.921,130,Available,Recorded Success,Recorded Success,117,900,Hit
+49,Retro,Romance,65,76.92,61.4,8,23,90,Available,Recorded Success,Recorded Success,25,38.46153846,Hit
+50,Arjun Reddy,Romance,5,100,46.15,7.9,56,51,Available,Recorded Success,Recorded Success,46,920,Hit
+51,Premalu,Romance,3,75,66.67,7.8,0.714,136.25,Available,Recorded Success,Recorded Success,133.25,4441.666667,Hit
+52,Choosi Choodangaane,Romance,30,50,40.17,6.3,0.084,11.78,Available,Recorded Success,Recorded Success,-18.22,-60.73333333,Flop
+53,Sapta Sagaradaache Ello: Side B,Romance,10,100,75,8,6.3,17.2,Available,Recorded Success,Recorded Success,7.2,72,Hit
+54,Atithi Devo Bhava,Romance,10,60,28.57,5.6,0.278,13.5,Available,Recorded Success,Recorded Success,3.5,35,Hit
+55,SR Kalyanamandapam,Romance,4.5,100,75,5.7,7.5,12.31,Available,Recorded Success,Recorded Success,7.81,173.5555556,Hit
+56,Manchi Rojulochaie,Romance,3,60,23,4.7,8.2,5,Available,Recorded Success,Recorded Success,2,66.66666667,Hit
+57,Shatamanam Bhavati,Romance,8,50,46.2,7,0.58,10.7,Available,Recorded Success,Recorded Success,2.7,33.75,Hit
+58,Srinivasa Kalyanam,Romance,6,50,65,6.1,6,12.9,Available,Recorded Success,Recorded Success,6.9,115,Hit
+59,Govindudu Andarivadele,Romance,30,51,57.14,5.7,0.2,70,Available,Recorded Success,Recorded Success,40,133.3333333,Hit
+60,Jaanu,Romance,21,33.33,46.2,7,9.1,8.54,Available,Recorded Success,Recorded Success,-12.46,-59.33333333,Flop
+61,Shaakuntalam,Romance,65,38,61,4.3,5.7,20,Available,Recorded Success,Recorded Success,-45,-69.23076923,Flop
+62,Bubblegum,Romance,1,60,20,6.2,3.8,0.115,Available,Recorded Success,Recorded Success,-0.885,-88.5,Flop
+63,Bommarillu,Romance,10,47,38,8.2,0.19,66.5,Available,Recorded Success,Recorded Success,56.5,565,Hit
+64,Raja Vaaru Rani Gaaru,Romance,1.3,66.66,75,7.4,4.9,2.2,Available,Recorded Success,Recorded Success,0.9,69.23076923,Hit
+65,Bachhala Malli,Romance,3.6,33.33,38.5,8.3,6.5,2,Available,Recorded Success,Recorded Success,-1.6,-44.44444444,Flop
+66,Ye Maaya Chesave,Romance,10,55,45,7.7,0.195,30,Available,Recorded Success,Recorded Success,20,200,Hit
+67,Krishna Gaadi Veera Prema Gaadha,Romance,14,60,65,7.4,0.897,23.3,Available,Recorded Success,Recorded Success,9.3,66.42857143,Hit
+68,18 Pages,Romance,16,66.7,33.33,7.1,13,25,Available,Recorded Success,Recorded Success,9,56.25,Hit
+69,Adbhutham,Romance,15,100,50,7.4,8.1,17.2,Available,Recorded Success,Recorded Success,2.2,14.66666667,Hit
+70,Heart Attack,Romance,15,63.6,65,5.3,0.973,40,Available,Recorded Success,Recorded Success,25,166.6666667,Hit
+71,Mere Husband Ki Biwi,Romance,30,33.33,26.7,4.4,23,11.7,Available,Recorded Success,Recorded Success,-18.3,-61,Flop
+72,Nadaaniyan,Romance,60,10,10,2.9,14,6,Available,Recorded Success,Recorded Success,-54,-90,Flop
+73,Rocky Aur Rani Kii Prem Kahaani,Romance,16,85.7,69.77,6.5,53,35.5,Available,Recorded Success,Recorded Success,19.5,121.875,Hit
+74,Kabir Singh,Romance,68,100,43,7,110,379.02,Available,Recorded Success,Recorded Success,311.02,457.3823529,Hit
+75,Sanam Teri Kasam,Romance,18,25,20,7.8,1.5,44.5,Available,Recorded Success,Recorded Success,26.5,147.2222222,Hit
+76,Dil Dhadakne Do,Romance,55,60,48,7,6.3,150,Available,Recorded Success,Recorded Success,95,172.7272727,Hit
+77,Dilwale,Romance,1.2,75,45,5.1,43,3.2,Available,Recorded Success,Recorded Success,2,166.6666667,Hit
+78,Dil Bechara,Romance,38,50,55.6,8.3,97,50,Available,Recorded Success,Recorded Success,12,31.57894737,Hit
+79,Do Aur Do Pyaar,Romance,40,25,68,6.4,17,4.63,Available,Recorded Success,Recorded Success,-35.37,-88.425,Flop
+80,Tu Jhoothi Main Makkaar,Romance,200,60,60,6,77,210,Available,Recorded Success,Recorded Success,10,5,Hit
+81,Haseen Dillruba,Romance,3.9,50,35,6.9,2.5,4.14,Available,Recorded Success,Recorded Success,0.24,6.153846154,Hit
+82,The Archies,Romance,45,60,10,4.2,3.2,22,Available,Recorded Success,Recorded Success,-23,-51.11111111,Flop
+83,Kho Gaye Hum Kahan,Romance,15,100,40,7.3,0.369,18,Available,Recorded Success,Recorded Success,3,20,Hit
+84,Zero,Romance,200,50,45,5.2,125,191.43,Available,Recorded Success,Recorded Success,-8.57,-4.285,Flop
+85,Wild Wild Punjab,Romance,16,60,36,6.2,34,72,Available,Recorded Success,Recorded Success,56,350,Hit
+86,Shubh Mangal Zyada Saavdhan,Romance,30,100,70,5.8,59,87,Available,Recorded Success,Recorded Success,57,190,Hit
+87,Gehraiyaan,Romance,80,66,50,5.8,45,140,Available,Recorded Success,Recorded Success,60,75,Hit
+88,Meenakshi Sundareshwar,Romance,4,50,60,6.7,8.6,1,Available,Recorded Success,Recorded Success,-3,-75,Flop
+89,Satyaprem Ki Katha,Romance,60,80,50,6.7,42,117.77,Available,Recorded Success,Recorded Success,57.77,96.28333333,Hit
+90,Dream Girl 2,Romance,35,67,70,5.2,43,140.56,Available,Recorded Success,Recorded Success,105.56,301.6,Hit
+91,Phir Aayi Hasseen Dillruba,Romance,82,100,35,5.8,36,458.69,Available,Recorded Success,Recorded Success,376.69,459.3780488,Hit
+92,Govinda Naam Mera,Romance,70,100,40,6.5,9.1,62,Available,Recorded Success,Recorded Success,-8,-11.42857143,Flop
+93,"Love, Sitara",Romance,7,50,20,5.3,0.231,8.5,Available,Recorded Success,Recorded Success,1.5,21.42857143,Hit
+94,Jug Jugg Jeeyo,Romance,85,66,72,6.1,45,85.03,Available,Recorded Success,Recorded Success,0.03,0.035294118,Hit
+95,Love Aaj Kal,Romance,50,50,50,4.7,50,52.6,Available,Recorded Success,Recorded Success,2.6,5.2,Hit
+96,Tiku Weds Sheru,Romance,4.5,20,70,3.4,23,3.4,Available,Recorded Success,Recorded Success,-1.1,-24.44444444,Flop
+97,Starfish,Romance,12,50,0,4.4,13,24,Available,Recorded Success,No Recorded Success,12,100,Hit
+98,Love Hostel,Romance,20,25,60,5.7,1.4,10,Available,Recorded Success,Recorded Success,-10,-50,Flop
+99,Khaali Peeli,Romance,20,45,40,2.5,8,52.38,Available,Recorded Success,Recorded Success,32.38,161.9,Hit
+100,Janhit Mein Jaari,Romance,6,50,60,6.8,18,5.98,Available,Recorded Success,Recorded Success,-0.02,-0.333333333,Flop
+101,Hungama 2,Romance,20,24,60,3.2,4.7,147.68,Available,Recorded Success,Recorded Success,127.68,638.4,Hit
+102,Bunty Aur Babli 2,Romance,45,100,50,4.1,25,22.12,Available,Recorded Success,Recorded Success,-22.88,-50.84444444,Flop
+103,Plan A Plan B,Romance,8,50,60,4.6,22,10.17,Available,Recorded Success,Recorded Success,2.17,27.125,Hit
+104,Dhadak,Romance,41,100,55,4.6,20,95.12,Available,Recorded Success,Recorded Success,54.12,132,Hit
+105,Laila Majnu,Romance,1.7,50,50,7.7,19,2.18,Available,Recorded Success,Recorded Success,0.48,28.23529412,Hit
+106,Kalank,Romance,150,33.33,72,3.7,38,145,Available,Recorded Success,Recorded Success,-5,-3.333333333,Flop
+107,Housefull 4,Romance,189,75,52,3.6,126,197.68,Available,Recorded Success,Recorded Success,8.68,4.592592593,Hit
+108,Gully Boy,Romance,65,60,56.25,7.9,64,238.16,Available,Recorded Success,Recorded Success,173.16,266.4,Hit
+109,Student of the Year 2,Romance,80,85.7,45,2.2,75,98.16,Available,Recorded Success,Recorded Success,18.16,22.7,Hit
+110,Student of the Year,Romance,59,85.7,74.5,5.3,14,70,Available,Recorded Success,Recorded Success,11,18.6440678,Hit
+111,Luka Chuppi,Romance,25,100,50,6.4,69,75.24,Available,Recorded Success,Recorded Success,50.24,200.96,Hit
+112,Sonu Ke Titu Ki Sweety,Romance,25,60,50,7.1,41,156.46,Available,Recorded Success,Recorded Success,131.46,525.84,Hit
+113,Dream Girl ,Romance,28,67,70,5.2,50,200.8,Available,Recorded Success,Recorded Success,172.8,617.1428571,Hit
+114,De De Pyaar De,Romance,75,50,46,6.5,76,143,Available,Recorded Success,Recorded Success,68,90.66666667,Hit
+115,Pati Patni Aur Woh,Romance,30,33.33,50,5.8,58,117.7,Available,Recorded Success,Recorded Success,87.7,292.3333333,Hit
+116,The Zoya Factor,Romance,33,50,50,4.4,23,6.96,Available,Recorded Success,Recorded Success,-26.04,-78.90909091,Flop
+117,Bajirao Mastani,Romance,145,60,56.25,7.3,17,356.2,Available,Recorded Success,Recorded Success,211.2,145.6551724,Hit
+118,Qarib Qarib Single,Romance,8.2,0,50,7.1,15,16.33,Available,No Recorded Success,Recorded Success,8.13,99.14634146,Hit
+119,Toilet: A Love Story,Romance,75,33.33,52,7.2,0.927,311.5,Available,Recorded Success,Recorded Success,236.5,315.3333333,Hit
+120,Dear Zindagi,Romance,30,100,83.3,7.4,6.4,120,Available,Recorded Success,Recorded Success,90,300,Hit
+121,Kapoor & Sons,Romance,35,66,60,7.7,16,120.01,Available,Recorded Success,Recorded Success,85.01,242.8857143,Hit
+122,Ae Dil Hai Mushkil,Romance,100,85.7,60,5.9,23,240,Available,Recorded Success,Recorded Success,140,140,Hit
+123,OK Jaanu,Romance,27,66,57.89,5.3,28,39.23,Available,Recorded Success,Recorded Success,12.23,45.2962963,Hit
+124,Jab Harry Met Sejal,Romance,80,50,45,5.1,14,147.76,Available,Recorded Success,Recorded Success,67.76,84.7,Hit
+125,Badrinath Ki Dulhania,Romance,47.5,100,72,6.1,39,194.81,Available,Recorded Success,Recorded Success,147.31,310.1263158,Hit
+126,Tamasha,Romance,87,50,60,7.4,1.2,136.63,Available,Recorded Success,Recorded Success,49.63,57.04597701,Hit
+127,Shaadi Mein Zaroor Aana,Romance,13,0,70,7.5,24,19.4,Available,No Recorded Success,Recorded Success,6.4,49.23076923,Hit
+128,Baar Baar Dekho,Romance,53,20,60,5.4,0.313,43.4,Available,Recorded Success,Recorded Success,-9.6,-18.11320755,Flop
+129,Shubh Mangal Savdhan,Romance,17,100,70,6.9,18,72.36,Available,Recorded Success,Recorded Success,55.36,325.6470588,Hit
+130,Roy,Romance,40,0,60,3.2,10,20,Available,No Recorded Success,Recorded Success,-20,-50,Flop
+131,Befikre,Romance,70,80,56.25,4.1,46,103.99,Available,Recorded Success,Recorded Success,33.99,48.55714286,Hit
+132,Half Girlfriend,Romance,50,75,26.7,4.7,41,97,Available,Recorded Success,Recorded Success,47,94,Hit
+133,Singh Is Bliing,Romance,9.1,75,52,5,5.3,12.5,Available,Recorded Success,Recorded Success,3.4,37.36263736,Hit
+134,Prem Ratan Dhan Payo,Romance,6,80,62.02,4.4,27,43,Available,Recorded Success,Recorded Success,37,616.6666667,Hit
+135,Kis Kisko Pyaar Karoon,Romance,15,75,36,5.6,7.6,7.2,Available,Recorded Success,Recorded Success,-7.8,-52,Flop
+136,Tanu Weds Manu Returns,Romance,39,50,70,7.6,12,255,Available,Recorded Success,Recorded Success,216,553.8461538,Hit
+137,Munna Michael,Romance,32,66,45,3.4,29,34.61,Available,Recorded Success,Recorded Success,2.61,8.15625,Hit
+138,Meri Pyaari Bindu,Romance,22,0,70,6.1,2.7,17.7,Available,No Recorded Success,Recorded Success,-4.3,-19.54545455,Flop
+139,Raabta,Romance,45,80,55.6,4.8,45,39,Available,Recorded Success,Recorded Success,-6,-13.33333333,Flop
+140,Shaandaar,Romance,60,60,43,3.7,15,75,Available,Recorded Success,Recorded Success,15,25,Hit
+141,Three of Us,Romance,0.2,50,50,7.5,3.6,0.3,Available,Recorded Success,Recorded Success,0.1,50,Hit
+142,Auron Mein Kahan Dum Tha,Romance,10,57,46,6.5,66,12.91,Available,Recorded Success,Recorded Success,2.91,29.1,Hit
+143,Tara vs Bilal,Romance,20,30,20,5.9,9.2,12,Available,Recorded Success,Recorded Success,-8,-40,Flop
+144,Teri Baaton Mein Aisa Uljha Jiya,Romance,10,100,43,6.2,61,13.3,Available,Recorded Success,Recorded Success,3.3,33,Hit
+145,Atrangi re,Romance,12,50,60,6.5,8.3,20,Available,Recorded Success,Recorded Success,8,66.66666667,Hit
+146,RRR,Action,550,100,54.43,7.8,85,1200,Available,Recorded Success,Recorded Success,650,118.1818182,Hit
+147,Baahubali: The Beginning,Action,180,100,45.45,8,29,650,Available,Recorded Success,Recorded Success,470,261.1111111,Hit
+148,Adipurush,Action,700,50,42.725,2.7,30,388.35,Available,Recorded Success,Recorded Success,-311.65,-44.52142857,Flop
+149,Baahubali: The Conclusion,Action,250,100,45.45,8.2,66,1788.06,Available,Recorded Success,Recorded Success,1538.06,615.224,Hit
+150,Pushpa: The Rise - Part 1,Action,225,77.78,52.63,7.6,74,393.5,Available,Recorded Success,Recorded Success,168.5,74.88888889,Hit
+151,Salaar,Action,270,100,45.45,6.6,53,700,Available,Recorded Success,Recorded Success,430,159.2592593,Hit
+152,Kalki 2898 AD,Action,600,100,45.45,7,31,1054.67,Available,Recorded Success,Recorded Success,454.67,75.77833333,Hit
+153,Pushpa: The Rule - Part 2,Action,450,77.78,52.63,6.1,113,1740,Available,Recorded Success,Recorded Success,1290,286.6666667,Hit
+154,1: Nenokkadine,Action,65,77.78,75,8,0.699,30.79,Available,Recorded Success,Recorded Success,-34.21,-52.63076923,Flop
+155,Game Changer,Action,450,76.92,57.14,5.5,58,178,Available,Recorded Success,Recorded Success,-272,-60.44444444,Flop
+156,Daaku Maharaj,Action,100,80,60,6,18,133,Available,Recorded Success,Recorded Success,33,33,Hit
+157,Devara part 1,Action,300,83.33,51.72,6,49,403.83,Available,Recorded Success,Recorded Success,103.83,34.61,Hit
+158,Hanu Man,Action,40,75,60,7.7,25,294.18,Available,Recorded Success,Recorded Success,254.18,635.45,Hit
+159,Saripodhaa Sanivaaram,Action,90,100,65,7,22,100.03,Available,Recorded Success,Recorded Success,10.03,11.14444444,Hit
+160,Razakar: The Silent Genocide of Hyderabad,Action,10,100,12.5,7.4,1.6,0.93,Available,Recorded Success,Recorded Success,-9.07,-90.7,Flop
+161,Janatha Garage,Action,50,83.33,51.72,7.2,7.7,130.35,Available,Recorded Success,Recorded Success,80.35,160.7,Hit
+162,Bhagavanth Kesari,Action,100,100,60,5.8,25,135,Available,Recorded Success,Recorded Success,35,35,Hit
+163,Zebra,Action,10,50,45,8,3.1,6.2,Available,Recorded Success,Recorded Success,-3.8,-38,Flop
+164,Godfather,Action,120,90,65,5.1,20,119.09,Available,Recorded Success,Recorded Success,-0.91,-0.758333333,Flop
+165,Magadheera,Action,40,100,57.14,7.7,0.7,150,Available,Recorded Success,Recorded Success,110,275,Hit
+166,Virata Parvam,Action,15,50,50.5,6.7,10,12,Available,Recorded Success,Recorded Success,-3,-20,Flop
+167,Macherla Niyojakavargam,Action,30,0,29,4.5,23,16.65,Available,No Recorded Success,Recorded Success,-13.35,-44.5,Flop
+168,Gandeevadhari Arjuna,Action,46,14.29,33,5.4,10,3,Available,Recorded Success,Recorded Success,-43,-93.47826087,Flop
+169,Indra,Action,8,75,60,7.5,0.189,53,Available,Recorded Success,Recorded Success,45,562.5,Hit
+170,The Ghost,Action,6,14.29,65,5.1,12,12.17,Available,Recorded Success,Recorded Success,6.17,102.8333333,Hit
+171,Krishnarjuna Yudham,Action,20,40,65,5.8,6.9,14.8,Available,Recorded Success,Recorded Success,-5.2,-26,Flop
+172,Simhadri,Action,8.5,100,51.72,7.3,0.68,30,Available,Recorded Success,Recorded Success,21.5,252.9411765,Hit
+173,Raja the great,Action,30,100,52.5,6.3,7.1,52,Available,Recorded Success,Recorded Success,22,73.33333333,Hit
+174,Aditya 369,Action,1.52,75,60,8.4,0.017,9,Available,Recorded Success,Recorded Success,7.48,492.1052632,Hit
+175,Oosaravelli,Action,25,60,51.72,6.5,0.082,57,Available,Recorded Success,Recorded Success,32,128,Hit
+176,Rachcha,Action,50,60,57.14,4.5,0.433,44.78,Available,Recorded Success,Recorded Success,-5.22,-10.44,Flop
+177,Bhaje Vaayu Vegam,Action,15,100,30,6.1,6.1,7.2,Available,Recorded Success,Recorded Success,-7.8,-52,Flop
+178,Parugu,Action,1.15,50,52.63,7.1,0.042,20,Available,Recorded Success,Recorded Success,18.85,1639.130435,Hit
+179,Khaidi No. 150,Action,50,70.6,65,5.8,10,164,Available,Recorded Success,Recorded Success,114,228,Hit
+180,Panjaa,Action,33,55.6,55,6.5,0.324,50,Available,Recorded Success,Recorded Success,17,51.51515152,Hit
+181,Dasara,Action,65,100,65,6.6,15,62.99,Available,Recorded Success,Recorded Success,-2.01,-3.092307692,Flop
+182,Bhadra,Action,6,60,52.5,6.8,0.041,21,Available,Recorded Success,Recorded Success,15,250,Hit
+183,"Naa Peru Surya, Naa Illu India",Action,55,43,52.63,6.7,12,85,Available,Recorded Success,Recorded Success,30,54.54545455,Hit
+184,Vinaya Vidheya Rama,Action,70,60,57.14,3.3,38,62.6,Available,Recorded Success,Recorded Success,-7.4,-10.57142857,Flop
+185,Touch Chesi Chudu,Action,15,0,52.5,4.7,4.7,19,Available,No Recorded Success,Recorded Success,4,26.66666667,Hit
+186,Legend,Action,40,60,60,6.2,3.3,88,Available,Recorded Success,Recorded Success,48,120,Hit
+187,Veera Simha Reddy,Action,100,71,60,4.8,25,134,Available,Recorded Success,Recorded Success,34,34,Hit
+188,Acharya,Action,140,83,61.07,3.8,38,76.7,Available,Recorded Success,Recorded Success,-63.3,-45.21428571,Flop
+189,Rebel,Action,40,72,42.725,4.9,0.29,104,Available,Recorded Success,Recorded Success,64,160,Hit
+190,Don,Action,16.85,86,65,5.8,2.6,20,Available,Recorded Success,Recorded Success,3.15,18.69436202,Hit
+191,Marco,Action,30,100,60,6.8,12.3,100,Available,Recorded Success,Recorded Success,70,233.3333333,Hit
+192,Arjun S/O Vijayanthi,Action,100,100,25,6.1,12.3,15,Available,Recorded Success,Recorded Success,-85,-85,Flop
+193,Major,Action,32,100,80,8.1,14,64,Available,Recorded Success,Recorded Success,32,100,Hit
+194,Jack,Action,80,0,66.7,5.6,2.3,78,Available,No Recorded Success,Recorded Success,-2,-2.5,Flop
+195,Liger,Action,90,61.1,50,2.6,50,20.05,Available,Recorded Success,Recorded Success,-69.95,-77.72222222,Flop
+196,Skanda,Action,50,50,33,4.2,50,57.5,Available,Recorded Success,Recorded Success,7.5,15,Hit
+197,Ugram,Action,15,50,76,6.5,7.5,45,Available,Recorded Success,Recorded Success,30,200,Hit
+198,Saindhav,Action,80,66,57,5.1,8.2,18.4,Available,Recorded Success,Recorded Success,-61.6,-77,Flop
+199,Pottel,Action,7.5,0,70,8.1,2.3,15,Available,No Recorded Success,Recorded Success,7.5,100,Hit
+200,Warrior,Action,70,50,33,4.8,18,313.2,Available,Recorded Success,Recorded Success,243.2,347.4285714,Hit
+201,Tuck Jagadish,Action,5,66,65,5.6,3.5,45,Available,Recorded Success,Recorded Success,40,800,Hit
+202,Zombie reddy,Action,4,66,60,6.6,4.5,25,Available,Recorded Success,Recorded Success,21,525,Hit
+203,Rama rao on duty,Action,55,0,52.5,5.1,10,35,Available,No Recorded Success,Recorded Success,-20,-36.36363636,Flop
+204,Bheemla nayak,Action,75,50,51,6.3,11.8,192,Available,Recorded Success,Recorded Success,117,156,Hit
+205,Buddy,Action,25,50,28,3.8,20,20,Available,Recorded Success,Recorded Success,-5,-20,Flop
+206,Gandharva dhaari arjuna,Action,50,50,87.5,5.4,10,18,Available,Recorded Success,Recorded Success,-32,-64,Flop
+207,krack,Action,35,66,52.5,6.9,5,70.6,Available,Recorded Success,Recorded Success,35.6,101.7142857,Hit
+208,Dhamaka ,Action,35,66,52.5,6.2,6,110,Available,Recorded Success,Recorded Success,75,214.2857143,Hit
+209,Wild dog,Action,6,0,65,6.1,10,35,Available,No Recorded Success,Recorded Success,29,483.3333333,Hit
+210,Aadhikeshava,Action,20,0,27.5,4.2,7.96,0.02,Available,No Recorded Success,Recorded Success,-19.98,-99.9,Flop
+211,Bhimbisara,Action,40,100,25,6.8,29,50,Available,Recorded Success,Recorded Success,10,25,Hit
+212,Double ismart,Action,47.5,50,33,2.9,1.5,1.15,Available,Recorded Success,Recorded Success,-46.35,-97.57894737,Flop
+213,Seetimaar,Action,25,50,55,5,10,15.1,Available,Recorded Success,Recorded Success,-9.9,-39.6,Flop
+214,Devil,Action,45,0,25,6.5,16,20,Available,No Recorded Success,Recorded Success,-25,-55.55555556,Flop
+215,Ravanasura,Action,50,50,52.5,5.7,10,24,Available,Recorded Success,Recorded Success,-26,-52,Flop
+216,Disco raja,Action,30,50,52.5,6.1,6.9,26,Available,Recorded Success,Recorded Success,-4,-13.33333333,Flop
+217,Republic,Action,40,50,44,7.8,14,40,Available,Recorded Success,Recorded Success,0,0,Flop
+218,Michael,Action,14.5,50,60,5,12,12,Available,Recorded Success,Recorded Success,-2.5,-17.24137931,Flop
+219,Son of india,Action,400,0,64,3.2,2.1,0.17,Available,No Recorded Success,Recorded Success,-399.83,-99.9575,Flop
+220,Operation valentine,Action,45,0,87.5,4.3,7.2,20,Available,No Recorded Success,Recorded Success,-25,-55.55555556,Flop
+221,Saaho,Action,325,50,45.45,5.1,58,429,Available,Recorded Success,Recorded Success,104,32,Hit
+222,Goodachari,Action,6,100,80,8.5,3.5,45,Available,Recorded Success,Recorded Success,39,650,Hit
+223,V,Action,25,60,65,6.8,10,50,Available,Recorded Success,Recorded Success,25,100,Hit
+224,Wailtar veerayaa,Action,140,50,65,6.2,2.7,25,Available,Recorded Success,Recorded Success,-115,-82.14285714,Flop
+225,Dhruva,Action,50,66,57.14,7.7,5,120,Available,Recorded Success,Recorded Success,70,140,Hit
+226,Ganga of godavari,Action,11,50,53.3,5,7.8,20.8,Available,Recorded Success,Recorded Success,9.8,89.09090909,Hit
+227,Na saami ranga,Action,45,0,65,4.5,6.7,30.5,Available,No Recorded Success,Recorded Success,-14.5,-32.22222222,Flop
+228,Sye ra narashima reddy,Action,200,50,65,7.5,12,240,Available,Recorded Success,Recorded Success,40,20,Hit
+229,Savyasachi,Action,24,50,65.4,4.1,3,60,Available,Recorded Success,Recorded Success,36,150,Hit
+230,Chhaava,Action,130,100,40,7.3,78,750,Available,Recorded Success,Recorded Success,620,476.9230769,Hit
+231,Deva,Action,50,0,43,6.7,37,30,Available,No Recorded Success,Recorded Success,-20,-40,Flop
+232,Dangal,Action,70,100,85,8.3,100,1996,Available,Recorded Success,Recorded Success,1926,2751.428571,Hit
+233,Animal,Action,100,100,70,6.1,113,550,Available,Recorded Success,Recorded Success,450,450,Hit
+234,Kesari,Action,80,100,75,7.4,10,65.45,Available,Recorded Success,Recorded Success,-14.55,-18.1875,Flop
+235,Hotel Mumbai,Action,1.73,100,60,7.6,5,2.13,Available,Recorded Success,Recorded Success,0.4,23.12138728,Hit
+236,Gangs of Wasseypur,Action,18.4,75,85,8.2,5,4.3,Available,Recorded Success,Recorded Success,-14.1,-76.63043478,Flop
+237,Fighter,Action,250,100,80,6.2,45,344,Available,Recorded Success,Recorded Success,94,37.6,Hit
+238,Baby John,Action,160,100,72,5.2,71,180,Available,Recorded Success,Recorded Success,20,12.5,Hit
+239,Jawan,Action,300,100,90,6.9,45,1159,Available,Recorded Success,Recorded Success,859,286.3333333,Hit
+240,Shershaah,Action,75,100,60,8.3,10,100,Available,Recorded Success,Recorded Success,25,33.33333333,Hit
+241,Jigra,Action,85,0,83.3,6,57,15,Available,No Recorded Success,Recorded Success,-70,-82.35294118,Flop
+242,Dunki,Action,120,100,90,6.5,80,470.6,Available,Recorded Success,Recorded Success,350.6,292.1666667,Hit
+243,Haider,Action,35,100,80,8,3,85,Available,Recorded Success,Recorded Success,50,142.8571429,Hit
+244,Sikandar Ka Muqaddar,Action,1,75,75,6,47,17,Available,Recorded Success,Recorded Success,16,1600,Hit
+245,Pathaan,Action,250,100,90,5.8,10,1052.5,Available,Recorded Success,Recorded Success,802.5,321,Hit
+246,Uri: The Surgical Strike,Action,44,100,80,8.2,13,342.73,Available,Recorded Success,Recorded Success,298.73,678.9318182,Hit
+247,Article 370,Action,20,50,72.5,7.8,32,8,Available,Recorded Success,Recorded Success,-12,-60,Flop
+248,Brahmastra Part One: Shiva,Action,410,100,70,5.6,10,430.77,Available,Recorded Success,Recorded Success,20.77,5.065853659,Hit
+249,Shehzada,Action,85,50,60,4.5,75,47,Available,Recorded Success,Recorded Success,-38,-44.70588235,Flop
+250,War,Action,170,100,80,6.6,10,475,Available,Recorded Success,Recorded Success,305,179.4117647,Hit
+251,Tiger 3,Action,300,75,85,5.7,82,466.63,Available,Recorded Success,Recorded Success,166.63,55.54333333,Hit
+252,Tiger Zinda Hai,Action,130,100,85,5.9,29,565,Available,Recorded Success,Recorded Success,435,334.6153846,Hit
+253,Bade Miyan Chote Miyan,Action,350,100,75,3.7,55,28.84,Available,Recorded Success,Recorded Success,-321.16,-91.76,Flop
+254,Ek Tha Tiger,Action,75,100,85,5.7,5,320,Available,Recorded Success,Recorded Success,245,326.6666667,Hit
+255,Bang Bang,Action,140,100,80,5.7,0.176,340,Available,Recorded Success,Recorded Success,200,142.8571429,Hit
+256,Ram Setu,Action,150,50,75,5.3,42,185,Available,Recorded Success,Recorded Success,35,23.33333333,Hit
+257,Baadshaho,Action,90,50,80,4.9,20,150,Available,Recorded Success,Recorded Success,60,66.66666667,Hit
+258,Dhoom 2,Action,3.5,100,80,6.6,2.6,370,Available,Recorded Success,Recorded Success,366.5,10471.42857,Hit
+259,Dhoom 3,Action,100,75,85,5.4,37,550,Available,Recorded Success,Recorded Success,450,450,Hit
+260,Yodha,Action,55,75,60,5.7,38,85,Available,Recorded Success,Recorded Success,30,54.54545455,Hit
+261,Kisi Ka Bhai Kisi Ki Jaan,Action,125,50,85,4,57,185,Available,Recorded Success,Recorded Success,60,48,Hit
+262,A Flying Jatt,Action,45,50,50,3.1,41,75,Available,Recorded Success,Recorded Success,30,66.66666667,Hit
+263,Shamshera,Action,150,50,70,4.7,108,85,Available,Recorded Success,Recorded Success,-65,-43.33333333,Flop
+264,Sherni,Action,0.25,100,80,6.8,21,25,Available,Recorded Success,Recorded Success,24.75,9900,Hit
+265,Junglee,Action,22,50,60,5.5,44,100,Available,Recorded Success,Recorded Success,78,354.5454545,Hit
+266,Housefull 2,Action,75,75,75,5.4,2.7,200,Available,Recorded Success,Recorded Success,125,166.6666667,Hit
+267,Khufiya,Action,37.5,100,82.5,6.1,41,10,Available,Recorded Success,Recorded Success,-27.5,-73.33333333,Flop
+268,Chandu Champion,Action,105,100,60,7.8,47,5,Available,Recorded Success,Recorded Success,-100,-95.23809524,Flop
+269,Raazi,Action,30,100,90,7.7,33,197,Available,Recorded Success,Recorded Success,167,556.6666667,Hit
+270,Happy New Year,Action,150,75,80,5,9.7,342,Available,Recorded Success,Recorded Success,192,128,Hit
+271,Agni,Action,40,50,82.5,7.2,15,50,Available,Recorded Success,Recorded Success,10,25,Hit
+272,An Action Hero,Action,45,50,80,7,29,16.24,Available,Recorded Success,Recorded Success,-28.76,-63.91111111,Flop
+273,Ludo,Action,35,100,75,7.6,9.4,100,Available,Recorded Success,Recorded Success,65,185.7142857,Hit
+274,Vikram Vedha,Action,100,100,80,7.1,61,135.03,Available,Recorded Success,Recorded Success,35.03,35.03,Hit
+275,Sankrathiki Vasthunam,Comedy,50,75,83,6.3,21,260,Available,Recorded Success,Recorded Success,210,420,Hit
+276,14 Days,Comedy,2,30,20,9,1.2,0.5,Available,Recorded Success,Recorded Success,-1.5,-75,Flop
+277,Srikakulam Sherlockhomes,Comedy,10.7,20,70,8.3,2.9,3,Available,Recorded Success,Recorded Success,-7.7,-71.96261682,Flop
+278,Mazaka,Comedy,30,62.5,60,6,1.4,12,Available,Recorded Success,Recorded Success,-18,-60,Flop
+279,Manamey,Comedy,20,40,75,9.2,7,17,Available,Recorded Success,Recorded Success,-3,-15,Flop
+280,Ala vaikuntapuramloo,Comedy,100,80,90,7.3,36,280,Available,Recorded Success,Recorded Success,180,180,Hit
+281,Laila,Comedy,18,73.3,30,2.6,8,10,Available,Recorded Success,Recorded Success,-8,-44.44444444,Flop
+282,Eega,Comedy,35,100,95,7.7,0.37,130,Available,Recorded Success,Recorded Success,95,271.4285714,Hit
+283,Sarileru Neekevaru,Comedy,75,75,75,5.8,45,207,Available,Recorded Success,Recorded Success,132,176,Hit
+284,SVSC,Comedy,40,40,83,7.5,0.44,51,Available,Recorded Success,Recorded Success,11,27.5,Hit
+285,Geetha govindam,Comedy,5,30,60,7.7,12,70,Available,Recorded Success,Recorded Success,65,1300,Hit
+286,Tillu Sqaure,Comedy,40,80,70,6.6,15,125,Available,Recorded Success,Recorded Success,85,212.5,Hit
+287,Kushi,Comedy,70,71.4,95,5.4,21,180,Available,Recorded Success,Recorded Success,110,157.1428571,Hit
+288,Om Bheem Bush,Comedy,20,50,70,5.6,5.6,17,Available,Recorded Success,Recorded Success,-3,-15,Flop
+289,Mathu vadalara,Comedy,2,66.5,70,8.2,3,10,Available,Recorded Success,Recorded Success,8,400,Hit
+290,Alludu Seenu,Comedy,35,70.5,30,4.6,0.54,15.6,Available,Recorded Success,Recorded Success,-19.4,-55.42857143,Flop
+291,Kick,Comedy,15,60,80,7.9,0.22,36,Available,Recorded Success,Recorded Success,21,140,Hit
+292,Oh Baby,Comedy,30,50,95,7.3,9,38,Available,Recorded Success,Recorded Success,8,26.66666667,Hit
+293,Brundavanam,Comedy,28,80,90,7.1,0.61,35,Available,Recorded Success,Recorded Success,7,25,Hit
+294,Don seenu,Comedy,30,85.7,85,6,0.34,90,Available,Recorded Success,Recorded Success,60,200,Hit
+295,Ori devuda,Comedy,15,96,30,7.1,0.88,10,Available,Recorded Success,Recorded Success,-5,-33.33333333,Flop
+296,Rangabali,Comedy,12,30,45,5,5.9,16,Available,Recorded Success,Recorded Success,4,33.33333333,Hit
+297,bomarillu,Comedy,6,44.5,60,8.2,0.63,32,Available,Recorded Success,Recorded Success,26,433.3333333,Hit
+298,Attarintiki daredi,Comedy,55,80,95,7.3,0.25,187,Available,Recorded Success,Recorded Success,132,240,Hit
+299,darling,Comedy,6.5,90,90,7.4,0.2,4.75,Available,Recorded Success,Recorded Success,-1.75,-26.92307692,Flop
+300,dhamaka,Comedy,35,62.5,80,6.2,3.8,110,Available,Recorded Success,Recorded Success,75,214.2857143,Hit
+301,krishnarjuna yuddham,Comedy,20,40,95,5.8,6.9,38,Available,Recorded Success,Recorded Success,18,90,Hit
+302,bro,Comedy,20,60,60,6,37,115,Available,Recorded Success,Recorded Success,95,475,Hit
+303,devadas,Comedy,18,50,95,6.5,7,90,Available,Recorded Success,Recorded Success,72,400,Hit
+304,krishna and his leela,Comedy,3,80,70,5.8,0.71,12,Available,Recorded Success,Recorded Success,9,300,Hit
+305,nenu local,Comedy,16,62.5,95,6.4,4.4,58,Available,Recorded Success,Recorded Success,42,262.5,Hit
+306,Aadavallu miku joharalu,Comedy,33,75,75,5.8,9.5,35.5,Available,Recorded Success,Recorded Success,2.5,7.575757576,Hit
+307,Jathi ratnalu,Comedy,6,33.3,60,7.3,22,70,Available,Recorded Success,Recorded Success,64,1066.666667,Hit
+308,samajavaragamana,Comedy,5,33.3,70,7.5,3.7,30,Available,Recorded Success,Recorded Success,25,500,Hit
+309,maryada ramanna,Comedy,14,100,80,7.5,0.14,28.5,Available,Recorded Success,Recorded Success,14.5,103.5714286,Hit
+310,Malliswari,Comedy,10,42.8,83,7.8,0.45,30,Available,Recorded Success,Recorded Success,20,200,Hit
+311,Ante sundharaniki,Comedy,30,75,95,8,20,30,Available,Recorded Success,Recorded Success,0,0,Flop
+312,Aadavari matalaku ardalu verule,Comedy,3,40.6,83,7.6,0.35,10,Available,Recorded Success,Recorded Success,7,233.3333333,Hit
+313,Pilla zamindar,Comedy,7,70,80,7.7,20,50,Available,Recorded Success,Recorded Success,43,614.2857143,Hit
+314,Kandeerga,Comedy,15,60,60,6.2,0.6,22,Available,Recorded Success,Recorded Success,7,46.66666667,Hit
+315,Soggade chinni nayana,Comedy,20,85,90,6.3,1.5,82,Available,Recorded Success,Recorded Success,62,310,Hit
+316,Agent sai srinivasa athreya,Comedy,1.5,75,90,8.3,5,15,Available,Recorded Success,Recorded Success,13.5,900,Hit
+317,Ashta chamma,Comedy,1.6,70,70,7.4,0.6,7,Available,Recorded Success,Recorded Success,5.4,337.5,Hit
+318,MAD,Comedy,8,60,60,7.5,10,26,Available,Recorded Success,Recorded Success,18,225,Hit
+319,Jalsa,Comedy,25,90,90,7.4,2,47.55,Available,Recorded Success,Recorded Success,22.55,90.2,Hit
+320,Manmadhudu,Comedy,5,85,90,4.8,0.237,30,Available,Recorded Success,Recorded Success,25,500,Hit
+321,Shankar dada MBBS,Comedy,15,50,90,7.6,0.434,20,Available,Recorded Success,Recorded Success,5,33.33333333,Hit
+322,Ginna,Comedy,25,85,50,3,7.3,2,Available,Recorded Success,Recorded Success,-23,-92,Flop
+323,Gopala gopala,Comedy,12,90,90,7.2,0.574,88.1,Available,Recorded Success,Recorded Success,76.1,634.1666667,Hit
+324,Oopiri,Comedy,21,75,90,8,3,30,Available,Recorded Success,Recorded Success,9,42.85714286,Hit
+325,Pelli choopulu,Comedy,1.2,75,60,8.5,0.794,30,Available,Recorded Success,Recorded Success,28.8,2400,Hit
+326,Mem famous,Comedy,3,30,20,7.1,1.7,3.9,Available,Recorded Success,Recorded Success,0.9,30,Hit
+327,Orange,Comedy,32,44.5,57.14,6.7,0.223,3.36,Available,Recorded Success,Recorded Success,-28.64,-89.5,Flop
+328,Krishana gadi veera prema kadha,Comedy,14,66.66,95,7.4,0.53,10.86,Available,Recorded Success,Recorded Success,-3.14,-22.42857143,Flop
+329,Chalo,Comedy,3,30,40.17,6.3,0.916,16,Available,Recorded Success,Recorded Success,13,433.3333333,Hit
+330,F3,Comedy,60,75,83,4.7,5.7,134,Available,Recorded Success,Recorded Success,74,123.3333333,Hit
+331,Doctor,Comedy,40,42.8,75,7.4,3.5,90,Available,Recorded Success,Recorded Success,50,125,Hit
+332,Varsham,Comedy,10,62.5,73.33,7.3,0.26,32,Available,Recorded Success,Recorded Success,22,220,Hit
+333,Premam,Comedy,20,30,40.17,6.4,3.2,60,Available,Recorded Success,Recorded Success,40,200,Hit
+334,Fidaa,Comedy,13,75,50,7.4,12,91,Available,Recorded Success,Recorded Success,78,600,Hit
+335,Middle class melodies,Comedy,2,75,40,7.5,0.204,51,Available,Recorded Success,Recorded Success,49,2450,Hit
+336,Duvvada jaganadham,Comedy,50,60,90,6,22,125,Available,Recorded Success,Recorded Success,75,150,Hit
+337,Badri,Comedy,20,61.1,60,7.3,0.11,18,Available,Recorded Success,Recorded Success,-2,-10,Flop
+338,Race gurram,Comedy,52,60,90,7.3,0.112,101.3,Available,Recorded Success,Recorded Success,49.3,94.80769231,Hit
+339,Gam gam ganesha,Comedy,4,0,40,5.3,3.4,6.05,Available,No Recorded Success,Recorded Success,2.05,51.25,Hit
+340,Gang leader,Comedy,40,25,95,7.6,7,45.8,Available,Recorded Success,Recorded Success,5.8,14.5,Hit
+341,Supreme,Comedy,20,75,42.85,6.1,1.2,20,Available,Recorded Success,Recorded Success,0,0,Flop
+342,Keeda cola,Comedy,2,75,30,7.4,6.6,16,Available,Recorded Success,Recorded Success,14,700,Hit
+343,Daruvu,Comedy,20,60.7,85,5.3,0.3,20,Available,Recorded Success,Recorded Success,0,0,Flop
+344,Das ka dhamki,Comedy,8.59,100,30,6.1,8.2,22.8,Available,Recorded Success,Recorded Success,14.21,165.4249127,Hit
+345,Happy,Comedy,2,90,90,7.1,1.6,18,Available,Recorded Success,Recorded Success,16,800,Hit
+346,Mirapakay,Comedy,1.5,60,85,6.3,0.218,17.02,Available,Recorded Success,Recorded Success,15.52,1034.666667,Hit
+347,Size zero,Comedy,25,28.5,70,5.5,7.5,9.5,Available,Recorded Success,Recorded Success,-15.5,-62,Flop
+348,Kirrak party,Comedy,10,50,33.33,7,3.2,11,Available,Recorded Success,Recorded Success,1,10,Hit
+349,Aay,Comedy,8,75,33.33,6.4,3.1,14.09,Available,Recorded Success,Recorded Success,6.09,76.125,Hit
+350,King,Comedy,20,70,90,6.5,0.45,100,Available,Recorded Success,Recorded Success,80,400,Hit
+351,Sailja reddy alludu,Comedy,15,60,40.17,5,8.3,26.5,Available,Recorded Success,Recorded Success,11.5,76.66666667,Hit
+352,Venkatadri express,Comedy,10,40,60,7.5,0.329,13.5,Available,Recorded Success,Recorded Success,3.5,35,Hit
+353,Raja raja chor,Comedy,2.2,20,70,7.5,0.38,11.15,Available,Recorded Success,Recorded Success,8.95,406.8181818,Hit
+354,Hushaaru,Comedy,1,66.66,30,6.7,1.2,5,Available,Recorded Success,Recorded Success,4,400,Hit
+355,ABCD,Comedy,4.5,25,10,5.5,7,12.5,Available,Recorded Success,Recorded Success,8,177.7777778,Hit
+356,Rang de,Comedy,30,80,65,6.3,16,24,Available,Recorded Success,Recorded Success,-6,-20,Flop
+357,Dubai seenu,Comedy,9,50,85,6.5,0.32,15.89,Available,Recorded Success,Recorded Success,6.89,76.55555556,Hit
+358,PellisandaD,Comedy,1.25,70,10,2.9,11,12,Available,Recorded Success,Recorded Success,10.75,860,Hit
+359,Khaleja,Comedy,32,80,75,7.6,0.85,20.02,Available,Recorded Success,Recorded Success,-11.98,-37.4375,Flop
+360,F2,Comedy,30,75,83,6.1,14,100,Available,Recorded Success,Recorded Success,70,233.3333333,Hit
+361,Ready,Comedy,8,70,33,7.2,0.16,17,Available,Recorded Success,Recorded Success,9,112.5,Hit
+362,Run raaja run,Comedy,4,20,65,7.3,0.574,20,Available,Recorded Success,Recorded Success,16,400,Hit
+363,Kalyana vibhogame,Comedy,1,50,35.2,7.5,0.676,1.53,Available,Recorded Success,Recorded Success,0.53,53,Hit
+364,Babu bangaram,Comedy,20,60,83,5,0.953,80,Available,Recorded Success,Recorded Success,60,300,Hit
+365,Loukhyam,Comedy,12,44.44,73.33,8,0.65,50,Available,Recorded Success,Recorded Success,38,316.6666667,Hit
+366,Krishna vrinda vihari,Comedy,8.9,50,35.2,5.8,0.987,8.9,Available,Recorded Success,Recorded Success,0,0,Flop
+367,Bruce Lee,Comedy,5,70,57.14,8,0.451,30,Available,Recorded Success,Recorded Success,25,500,Hit
+368,Oka laila kosam,Comedy,20,33.33,40.17,6,0.83,40,Available,Recorded Success,Recorded Success,20,100,Hit
+369,Writer padmabhusam,Comedy,3,100,75,7.5,0.178,10.34,Available,Recorded Success,Recorded Success,7.34,244.6666667,Hit
+370,Dhee,Comedy,5,70,20,7.2,11,12,Available,Recorded Success,Recorded Success,7,140,Hit
+371,Raju gari gadhi,Comedy,2,60,33.33,5.1,0.53,50,Available,Recorded Success,Recorded Success,48,2400,Hit
+372,Paagal,Comedy,7,0,30,5.6,7.7,6,Available,No Recorded Success,Recorded Success,-1,-14.28571429,Flop
+373,Anubavinchu raaja,Comedy,8,66,40,5.4,6.1,4.95,Available,Recorded Success,Recorded Success,-3.05,-38.125,Flop
+374,Body guard,Comedy,20,50,83,5,0.12,21.3,Available,Recorded Success,Recorded Success,1.3,6.5,Hit
+375,Sundaram master,Comedy,1.5,0,70,7,3,55,Available,No Recorded Success,Recorded Success,53.5,3566.666667,Hit
+376,Seema tapakai,Comedy,4,60,65,7.3,3.4,2.06,Available,Recorded Success,Recorded Success,-1.94,-48.5,Flop
+377,Pareshan,Comedy,1.15,50,33,5.7,1.3,12,Available,Recorded Success,Recorded Success,10.85,943.4782609,Hit
+378,Sudigaadu,Comedy,3.5,60,65,6.1,0.306,22,Available,Recorded Success,Recorded Success,18.5,528.5714286,Hit
+379,Like share and subscribe,Comedy,2,40,23,5.2,2,1.34,Available,Recorded Success,Recorded Success,-0.66,-33,Flop
+380,Gaali sampath,Comedy,20,50,70,6.5,0.145,0.8,Available,Recorded Success,Recorded Success,-19.2,-96,Flop
+381,BomBhaat,Comedy,10,0,65,5.6,1.4,1,Available,No Recorded Success,Recorded Success,-9,-90,Flop
+382,Kithakithalu,Comedy,1.5,80,70,6,57,8,Available,Recorded Success,Recorded Success,6.5,433.3333333,Hit
+383,Pressure cooker,Comedy,4.4,0,41.67,6.3,0.152,0.6,Available,No Recorded Success,Recorded Success,-3.8,-86.36363636,Flop
+384,Bheeshma,Comedy,25,30,65,6.6,14,50,Available,Recorded Success,Recorded Success,25,100,Hit
+385,Naani,Comedy,14,62.5,75,5.2,0.823,71.65,Available,Recorded Success,Recorded Success,57.65,411.7857143,Hit
+386,Tenali ramakrishna BA. BL,Comedy,8,25,60,4.9,3.7,10,Available,Recorded Success,Recorded Success,2,25,Hit
+387,Jyo Achyutananda,Comedy,1.2,40,35.2,6.1,1.1,7,Available,Recorded Success,Recorded Success,5.8,483.3333333,Hit
+388,Mahanubhavudu,Comedy,12,60,65,6.4,4.5,36,Available,Recorded Success,Recorded Success,24,200,Hit
+389,Happy birthday,Comedy,6,33.33,40.5,5.6,1.1,3,Available,Recorded Success,Recorded Success,-3,-50,Flop
+390,Poola Rangadu,Comedy,2,25,80,5.6,0.138,8,Available,Recorded Success,Recorded Success,6,300,Hit
+391,Sudigadu,Comedy,1,25,75,6.1,0.442,14,Available,Recorded Success,Recorded Success,13,1300,Hit
+392,Robinhood,Comedy,60,30,65,4.5,15,15,Available,Recorded Success,Recorded Success,-45,-75,Flop
+393,Swag,Comedy,15,20,70,7.5,2.4,4.15,Available,Recorded Success,Recorded Success,-10.85,-72.33333333,Flop
+394,Maruti nagar subramanyam,Comedy,4,0,40,7.7,0.339,4,Available,No Recorded Success,Recorded Success,0,0,Flop
+395,35 chinna katha kadu,Comedy,15,40,65,7.9,0.537,3.35,Available,Recorded Success,Recorded Success,-11.65,-77.66666667,Flop
+396,Pakka commercial,Comedy,12.5,60,73.33,4.2,8.3,14.18,Available,Recorded Success,Recorded Success,1.68,13.44,Hit
+397,Slum dog husband,Comedy,1,20,10,6.5,0.221,0.4,Available,Recorded Success,Recorded Success,-0.6,-60,Flop
+398,Ramnagar bunny,Comedy,4,0,30,6.9,1,1.35,Available,No Recorded Success,Recorded Success,-2.65,-66.25,Flop
+399,Lucky bhaskar,Thriller,56,70,100,8,2.1,107,Available,Recorded Success,Recorded Success,51,91.07142857,Hit
+400,Thandel,Thriller,80,80,20,5.9,15,100,Available,Recorded Success,Recorded Success,20,25,Hit
+401,Kalki-2989AD,Thriller,200,80,43,7,31,1200,Available,Recorded Success,Recorded Success,1000,500,Hit
+402,Fear,Thriller,12,60,30,8.8,1,15,Available,Recorded Success,Recorded Success,3,25,Hit
+403,Legally Veer,Thriller,4,100,0,7.9,0.06,0.08,Available,Recorded Success,No Recorded Success,-3.92,-98,Flop
+404,Pushpa the rise-part 1,Thriller,200,77.78,52.63,7.6,74,373,Available,Recorded Success,Recorded Success,173,86.5,Hit
+405,Hathya,Thriller,6,50,33,7.7,2,0.24,Available,Recorded Success,Recorded Success,-5.76,-96,Flop
+406,Agent,Thriller,150,75,25,3.7,0.17,10.05,Available,Recorded Success,Recorded Success,-139.95,-93.3,Flop
+407,Devara -1,Thriller,200,80,45,6,20,146,Available,Recorded Success,Recorded Success,-54,-27,Flop
+408,Saripodha Sanivaram,Thriller,90,75,60,7,22,94.85,Available,Recorded Success,Recorded Success,4.85,5.388888889,Hit
+409,Ramam Raghavam,Thriller,25,84,35,6.2,0.546,0.3,Available,Recorded Success,Recorded Success,-24.7,-98.8,Flop
+410,Mangalvaram,Thriller,10,66.67,37.5,6.8,11,21.35,Available,Recorded Success,Recorded Success,11.35,113.5,Hit
+411,Guard-Revenge of Love,Thriller,4,50,31,9.3,1,0.03,Available,Recorded Success,Recorded Success,-3.97,-99.25,Flop
+412,My name is Shruti,Thriller,2.5,100,40,6.2,2.8,1,Available,Recorded Success,Recorded Success,-1.5,-60,Flop
+413,Evaru,Thriller,8,70,71,8.1,7.9,21.12,Available,Recorded Success,Recorded Success,13.12,164,Hit
+414,Maguva,Thriller,24,49,25,4.9,0.052,3,Available,Recorded Success,Recorded Success,-21,-87.5,Flop
+415,Mr.Bachchan,Thriller,70,80,50,3.6,7.1,7,Available,Recorded Success,Recorded Success,-63,-90,Flop
+416,Bharat ane nenu,Thriller,60,80,75,7.4,20,125,Available,Recorded Success,Recorded Success,65,108.3333333,Hit
+417,Hit the second case,Thriller,15,70,71,7.1,8.9,35,Available,Recorded Success,Recorded Success,20,133.3333333,Hit
+418,Rakshana,Thriller,10,56,60,5.6,1.2,0.54,Available,Recorded Success,Recorded Success,-9.46,-94.6,Flop
+419,Eagle,Thriller,150,50,50,5.9,15,30.6,Available,Recorded Success,Recorded Success,-119.4,-79.6,Flop
+420,Hit,Thriller,15,70,44,7.6,2.2,22,Available,Recorded Success,Recorded Success,7,46.66666667,Hit
+421,Gaami,Thriller,6,60,44.4,6.4,9.6,22,Available,Recorded Success,Recorded Success,16,266.6666667,Hit
+422,Yashoda,Thriller,50,65,65,6.5,6.2,30,Available,Recorded Success,Recorded Success,-20,-40,Flop
+423,Virupaksha,Thriller,30,85,46.7,7.2,14,90.5,Available,Recorded Success,Recorded Success,60.5,201.6666667,Hit
+424,Bhoothaddam Bhaskar Narayana,Thriller,5,50,60,6.3,3.1,6,Available,Recorded Success,Recorded Success,1,20,Hit
+425,RED,Thriller,30,60,33,6.5,0.267,6.7,Available,Recorded Success,Recorded Success,-23.3,-77.66666667,Flop
+426,Highway,Thriller,25,60,33.33,3.9,1,52.44,Available,Recorded Success,Recorded Success,27.44,109.76,Hit
+427,Ghatikachalam,Thriller,50,40,25,7,0.082,1.16,Available,Recorded Success,Recorded Success,-48.84,-97.68,Flop
+428,Pushpaka Vimanam,Thriller,20,55,33.3,6.3,0.705,0.55,Available,Recorded Success,Recorded Success,-19.45,-97.25,Flop
+429,Ekkadiki Pothavu Chinnavada,Thriller,12,68,41,7.4,0.021,20,Available,Recorded Success,Recorded Success,8,66.66666667,Hit
+430,Atharva,Thriller,5,45,42.1,6.7,0.22,0.9,Available,Recorded Success,Recorded Success,-4.1,-82,Flop
+431,Chakravyuham:The Trap,Thriller,2,55,71,7.1,0.24,2.5,Available,Recorded Success,Recorded Success,0.5,25,Hit
+432,Nene Raju nene Mantri,Thriller,20,70,50,5.8,11,30,Available,Recorded Success,Recorded Success,10,50,Hit
+433,Falaknamu Das,Thriller,5,60,44,6.3,5.9,12,Available,Recorded Success,Recorded Success,7,140,Hit
+434,The Birthday Boy,Thriller,4,35,70,8.8,3.4,0.13,Available,Recorded Success,Recorded Success,-3.87,-96.75,Flop
+435,Khaidi No.150,Thriller,70,90,65,5.8,10,164,Available,Recorded Success,Recorded Success,94,134.2857143,Hit
+436,Drushyam 2,Thriller,20,80,83,8.1,17,60,Available,Recorded Success,Recorded Success,40,200,Hit
+437,Awe!,Thriller,5,85,90,7.6,1,8,Available,Recorded Success,Recorded Success,3,60,Hit
+438,Bujji Ila Raa,Thriller,3,50,50,6.6,2,2,Available,Recorded Success,Recorded Success,-1,-33.33333333,Flop
+439,Godse,Thriller,20,50,60,5.7,4.6,4,Available,Recorded Success,Recorded Success,-16,-80,Flop
+440,Naandhi,Thriller,15,75,85,7.8,5.3,9.5,Available,Recorded Success,Recorded Success,-5.5,-36.66666667,Flop
+441,Aranya,Thriller,45,40,70,7.5,13,25,Available,Recorded Success,Recorded Success,-20,-44.44444444,Flop
+442,Amigos,Thriller,60,45,35,6,13,11.75,Available,Recorded Success,Recorded Success,-48.25,-80.41666667,Flop
+443,Mishan Impossible,Thriller,25,60,30,6.4,9,6,Available,Recorded Success,Recorded Success,-19,-76,Flop
+444,Aswathama,Thriller,25,65,20,6.4,7.5,4.83,Available,Recorded Success,Recorded Success,-20.17,-80.68,Flop
+445,Arjuna Phalguna,Thriller,20,40,70,4.8,5.5,3,Available,Recorded Success,Recorded Success,-17,-85,Flop
+446,Valmiki,Thriller,30,75.5,75,6.2,1.5,35,Available,Recorded Success,Recorded Success,5,16.66666667,Hit
+447,Chanakya,Thriller,50,40.3,35,5.4,6.8,40,Available,Recorded Success,Recorded Success,-10,-20,Flop
+448,Spyder,Thriller,100,60.7,75,6.3,15,160,Available,Recorded Success,Recorded Success,60,60,Hit
+449,Ichata Vahanumulu Niluparadu,Thriller,15,54.2,50,5.7,3.3,2,Available,Recorded Success,Recorded Success,-13,-86.66666667,Flop
+450,KA,Thriller,22,65.8,55,7.2,9.8,2,Available,Recorded Success,Recorded Success,-20,-90.90909091,Flop
+451,Matka,Thriller,40,35.9,75,4.7,8.8,2,Available,Recorded Success,Recorded Success,-38,-95,Flop
+452,Check,Thriller,25,45,62,6.4,3.1,30,Available,Recorded Success,Recorded Success,5,20,Hit
+453,Dorakuna Ituvanti Seva,Thriller,20,40.2,0,8.3,0.126,2,Available,Recorded Success,No Recorded Success,-18,-90,Flop
+454,Kali,Thriller,15,42.3,83,7.2,1.9,2,Available,Recorded Success,Recorded Success,-13,-86.66666667,Flop
+455,Masooda,Thriller,10,65.7,50,7.2,5.1,6,Available,Recorded Success,Recorded Success,-4,-40,Flop
+456,Hunt,Thriller,20,50.4,55,5.4,6.8,2,Available,Recorded Success,Recorded Success,-18,-90,Flop
+457,Appudu Ippudo Eppudo,Thriller,15,35.2,41,4.7,3.5,2,Available,Recorded Success,Recorded Success,-13,-86.66666667,Flop
+458,Kavacham,Thriller,25,45.6,35,5.5,2.2,35,Available,Recorded Success,Recorded Success,10,40,Hit
+459,Lie,Thriller,40,48.9,60,5.8,4.7,55,Available,Recorded Success,Recorded Success,15,37.5,Hit
+460,Spark L.I.F.E,Thriller,5,40.7,50,7.3,11,2,Available,Recorded Success,Recorded Success,-3,-60,Flop
+461,Nannaku Prematho,Thriller,50,82.4,51.72,7.5,7.5,95,Available,Recorded Success,Recorded Success,45,90,Hit
+462,118,Thriller,20,60.3,35,6.4,0.891,30,Available,Recorded Success,Recorded Success,10,50,Hit
+463,Saakshyam,Thriller,30,50,45,4.6,9,45,Available,Recorded Success,Recorded Success,15,50,Hit
+464,Black Rose,Thriller,2,38.2,50,4,0.261,1,Available,Recorded Success,Recorded Success,-1,-50,Flop
+465,Maya,Thriller,10,66,76,,3.9,1,Available,Recorded Success,Recorded Success,-9,-90,Flop
+466,Anthima Theerpu,Thriller,1.15,42.7,50,8.1,0.677,2,Available,Recorded Success,Recorded Success,0.85,73.91304348,Hit
+467,Kshanam,Thriller,15,75.3,70,8.1,1.7,7,Available,Recorded Success,Recorded Success,-8,-53.33333333,Flop
+468,Ninu Veedani Needanu Nene,Thriller,15,55.4,50,5.8,3.8,3,Available,Recorded Success,Recorded Success,-12,-80,Flop
+469,Satyabhama,Thriller,15,48.3,70,5.9,3.5,2.55,Available,Recorded Success,Recorded Success,-12.45,-83,Flop
+470,Tiger Nagheswar Rao,Thriller,60,60.8,75,6.2,16,40,Available,Recorded Success,Recorded Success,-20,-33.33333333,Flop
+471,U-Turn,Thriller,10,68.9,65,6,6.1,12,Available,Recorded Success,Recorded Success,2,20,Hit
+472,Karthikeya 2,Thriller,50,80.2,41,6.9,13,135,Available,Recorded Success,Recorded Success,85,170,Hit
+473,The story of a beautiful girl,Thriller,1,39.8,50,4.9,1.7,1,Available,Recorded Success,Recorded Success,0,0,Flop
+474,Case 30,Thriller,1.4,41.2,50,7.1,1,1.5,Available,Recorded Success,Recorded Success,0.1,7.142857143,Hit
+475,Subrahmanyapuram,Thriller,15,55.7,60,5.4,2,5.75,Available,Recorded Success,Recorded Success,-9.25,-61.66666667,Flop
+476,1:Nenokkadine,Thriller,60,70.5,75,7.9,0.703,55,Available,Recorded Success,Recorded Success,-5,-8.333333333,Flop
+477,Rakshasudu,Thriller,20,65.1,65,7.9,2.3,17.1,Available,Recorded Success,Recorded Success,-2.9,-14.5,Flop
+478,Neevevaro,Thriller,4.2,58.4,60,6.8,2,12,Available,Recorded Success,Recorded Success,7.8,185.7142857,Hit
+479,Veekshanam,Thriller,15,50,50,8,1,1.5,Available,Recorded Success,Recorded Success,-13.5,-90,Flop
+480,Kota Bommali PS,Thriller,0.44,60.6,60,7.2,0.245,2,Available,Recorded Success,Recorded Success,1.56,354.5454545,Hit
+481,Vakeel Saab,Thriller,70,78.9,35,6.9,49,135,Available,Recorded Success,Recorded Success,65,92.85714286,Hit
+482,Arjun Suravaram,Thriller,10,62.7,41,6.6,4.5,21,Available,Recorded Success,Recorded Success,11,110,Hit
+483,Kerosene,Thriller,3,45.1,50,7.4,0.237,1.75,Available,Recorded Success,Recorded Success,-1.25,-41.66666667,Flop
+484,The Great Indian Suicide,Thriller,5,40.9,55,5.8,0.224,2,Available,Recorded Success,Recorded Success,-3,-60,Flop
+485,Raagala 24 Gantallo,Thriller,15,50.2,60,5.2,0.81,2,Available,Recorded Success,Recorded Success,-13,-86.66666667,Flop
+486,Jawaan,Thriller,18,55.8,65,4.7,76,1148,Available,Recorded Success,Recorded Success,1130,6277.777778,Hit
+487,Devil-The British Secret Agent,Thriller,80,58.6,60,6.5,16,22.9,Available,Recorded Success,Recorded Success,-57.1,-71.375,Flop
+488,Bholaa Shankar,Thriller,101,50.5,65,3.3,20,47.5,Available,Recorded Success,Recorded Success,-53.5,-52.97029703,Flop
+489,Raju Gari Gadhi 3,Thriller,10,45.9,55,5.5,6.1,20.71,Available,Recorded Success,Recorded Success,10.71,107.1,Hit
+490,Kalki,Thriller,600,65.3,50,6.8,31,18,Available,Recorded Success,Recorded Success,-582,-97,Flop
+491,Mukhachitram,Thriller,5,52.4,50,6.4,0.691,0.5,Available,Recorded Success,Recorded Success,-4.5,-90,Flop
+492,Viswam,Thriller,24,47.8,55,4.2,0.88,18.96,Available,Recorded Success,Recorded Success,-5.04,-21,Flop
+493,G-Zombie,Thriller,0.0025,40.3,50,4.5,1.2,4.5,Available,Recorded Success,Recorded Success,4.4975,179900,Hit
+494,Butterfly,Thriller,15,54.7,54,4.6,8.2,12,Available,Recorded Success,Recorded Success,-3,-20,Flop
+495,Jai Lava Kusa,Thriller,45,75.6,51.72,6.8,27,175,Available,Recorded Success,Recorded Success,130,288.8888889,Hit
+496,Custody,Thriller,30,58.2,60,5.7,17,11,Available,Recorded Success,Recorded Success,-19,-63.33333333,Flop
+497,Shivangi Lioness,Thriller,4,42.6,50,7.8,0.741,1,Available,Recorded Success,Recorded Success,-3,-75,Flop
+498,Maa Oori Polimera,Thriller,6,60.5,60,7.2,1,1.1,Available,Recorded Success,Recorded Success,-4.9,-81.66666667,Flop
+499,Drushyam,Thriller,6,70.8,83,8.2,0.732,20,Available,Recorded Success,Recorded Success,14,233.3333333,Hit
+500,Gentleman,Thriller,15,68.4,80,7.1,2.8,32.6,Available,Recorded Success,Recorded Success,17.6,117.3333333,Hit
+501,Dongalunnaru Jagratta,Thriller,2.5,45,55,5.1,0.431,20.5,Available,Recorded Success,Recorded Success,18,720,Hit
+502,Amma Rajyamlo Kadapa Biddalu,Thriller,1,30,50,3.2,9,4.82,Available,Recorded Success,Recorded Success,3.82,382,Hit
+503,Karthiekya,Thriller,6,75,41,7.2,1,20,Available,Recorded Success,Recorded Success,14,233.3333333,Hit
+504,Bluff Master,Thriller,10,55.5,60,6.3,0.62,32.71,Available,Recorded Success,Recorded Success,22.71,227.1,Hit
+505,Nene Naa,Thriller,9,50,55,3.9,2,0.035,Available,Recorded Success,Recorded Success,-8.965,-99.61111111,Flop
+506,C/o Kancharapalem,Drama,0.77,70,90,9.5,17,3,Available,Recorded Success,Recorded Success,2.23,289.6103896,Hit
+507,Billa,Drama,120,75,80,4.3,0.6,10,Available,Recorded Success,Recorded Success,-110,-91.66666667,Flop
+508,Vachindamma,Drama,5,75,80,8.2,12,8,Available,Recorded Success,Recorded Success,3,60,Hit
+509,Pelli Sandadi 2,Drama,1.25,60,65,8.3,1,5,Available,Recorded Success,Recorded Success,3.75,300,Hit
+510,Prathi Roju Pandage,Drama,25,85,85,8.1,20,45,Available,Recorded Success,Recorded Success,20,80,Hit
+511,Manasunna Reddy,Drama,0.8,60,65,8.5,1,7,Available,Recorded Success,Recorded Success,6.2,775,Hit
+512,Kshana Kshanam 2,Drama,1.4,70,70,7.9,2,10,Available,Recorded Success,Recorded Success,8.6,614.2857143,Hit
+513,Ala Vaikunthapurramuloo,Drama,100,90,95,8.3,90,150,Available,Recorded Success,Recorded Success,50,50,Hit
+514,Kshana Kshanam Reloaded,Drama,1,65,70,8.2,1,7,Available,Recorded Success,Recorded Success,6,600,Hit
+515,Pelli Sandadi 3,Drama,1.25,60,65,8,0.5,5,Available,Recorded Success,Recorded Success,3.75,300,Hit
+516,Toli Prema Reloaded,Drama,7,70,80,7.9,4,20,Available,Recorded Success,Recorded Success,13,185.7142857,Hit
+517,Unbeaten Geniuses,Drama,12,65,70,8.5,1,5,Available,Recorded Success,Recorded Success,-7,-58.33333333,Flop
+518,Pelli Sandadi Revisited,Drama,3,60,65,5.1,0.5,3,Available,Recorded Success,Recorded Success,0,0,Flop
+519,Dhanak,Drama,2,80,75,7.9,2.5,10,Available,Recorded Success,Recorded Success,8,400,Hit
+520,Kshana Kshanam 3,Drama,3.5,65,70,8.1,1,7,Available,Recorded Success,Recorded Success,3.5,100,Hit
+521,Kshana Kshanam Returns,Drama,4,65,70,7.9,1,6,Available,Recorded Success,Recorded Success,2,50,Hit
+522,Chitram 2,Drama,6,70,70,8,2,7,Available,Recorded Success,Recorded Success,1,16.66666667,Hit
+523,Kshana Kshanam 4,Drama,5,60,65,7.8,0.78,6,Available,Recorded Success,Recorded Success,1,20,Hit
+524,Gamyam 2,Drama,50,70,75,8.1,1,10,Available,Recorded Success,Recorded Success,-40,-80,Flop
+525,Rocky aur Rani ki Prem Kahani,Drama,160,85,90,6.5,80,355,Available,Recorded Success,Recorded Success,195,121.875,Hit
+526,Gangubai Kathiawadi,Drama,180,90,90,7.8,65,220,Available,Recorded Success,Recorded Success,40,22.22222222,Hit
+527,The Kashmir Files,Drama,25,85,85,8.5,40,300,Available,Recorded Success,Recorded Success,275,1100,Hit
+528,The White Tiger,Drama,25,80,85,7.1,20,0,Zero Revenue,Recorded Success,Recorded Success,-25,-100,Flop
+529,Thappad,Drama,20,85,90,7,15,44,Available,Recorded Success,Recorded Success,24,120,Hit
+530,Uri : The Surgical Strike,Drama,25,95,95,8.2,70,342,Available,Recorded Success,Recorded Success,317,1268,Hit
+531,Aa Naluguru,Drama,1.5,70,60,8.6,0.002,3,Available,Recorded Success,Recorded Success,1.5,100,Hit
+532,Aditya's Journey,Drama,13,85,70,8.2,9.2,90,Available,Recorded Success,Recorded Success,77,592.3076923,Hit
+533,Baahubali 2: The Conclusion,Drama,250,90,85,8.2,105,1810,Available,Recorded Success,Recorded Success,1560,624,Hit
+534,Bhale Bhale Magadivoy,Drama,7,100,80,8,6.7,55,Available,Recorded Success,Recorded Success,48,685.7142857,Hit
+535,Chinnadana Neekosam,Drama,12,60,65,8,1.9,15,Available,Recorded Success,Recorded Success,3,25,Hit
+536,Chitram,Drama,0.8,100,50,8.7,0.18,6,Available,Recorded Success,Recorded Success,5.2,650,Hit
+537,Chupultho,Drama,1.5,70,80,8.2,0.08,20,Available,Recorded Success,Recorded Success,18.5,1233.333333,Hit
+538,Ee Nagaraniki Emaindi,Drama,2.5,100,70,8.1,1.8,8,Available,Recorded Success,Recorded Success,5.5,220,Hit
+539,Jersey,Drama,25,80,70,8.5,,48,Available,Recorded Success,Recorded Success,23,92,Hit
+540,Kalyana Vaibhogame,Drama,4,70,65,7.8,1.5,8,Available,Recorded Success,Recorded Success,4,100,Hit
+541,Karthikeya,Drama,5,100,70,7.8,2.1,20,Available,Recorded Success,Recorded Success,15,300,Hit
+542,Love Story,Drama,30,85,75,8.2,10.5,60,Available,Recorded Success,Recorded Success,30,100,Hit
+543,Mahanati,Drama,25,100,75,8.4,10.3,83,Available,Recorded Success,Recorded Success,58,232,Hit
+544,Malleswari,Drama,8,70,75,8.4,0.45,20,Available,Recorded Success,Recorded Success,12,150,Hit
+545,Manam,Drama,28,80,85,8.4,0.45,62,Available,Recorded Success,Recorded Success,34,121.4285714,Hit
+546,NTR Kathanayakudu,Drama,50,75,80,8.4,3.2,20,Available,Recorded Success,Recorded Success,-30,-60,Flop
+547,Nuvvu Naaku Nachchav,Drama,6,75,80,8.8,0.47,20,Available,Recorded Success,Recorded Success,14,233.3333333,Hit
+548,Okka Kshanam,Drama,10,60,65,7.8,1.9,5,Available,Recorded Success,Recorded Success,-5,-50,Flop
+549,Pelli Sandadi,Drama,2,80,75,8,11,15,Available,Recorded Success,Recorded Success,13,650,Hit
+550,Prema Katha Chitram,Drama,2,75,70,8,2.8,20,Available,Recorded Success,Recorded Success,18,900,Hit
+551,Prema Katha Chitram 2,Drama,3,50,50,8.1,1.3,5,Available,Recorded Success,Recorded Success,2,66.66666667,Hit
+552,Raghavendra,Drama,8,60,70,8.5,0.035,12,Available,Recorded Success,Recorded Success,4,50,Hit
+553,Raja Rani,Drama,15,100,80,8.1,5.6,50,Available,Recorded Success,Recorded Success,35,233.3333333,Hit
+554,Rajanna,Drama,20,60,70,8.1,2.3,8,Available,Recorded Success,Recorded Success,-12,-60,Flop
+555,Rangasthalam,Drama,60,90,85,8.4,12.7,216,Available,Recorded Success,Recorded Success,156,260,Hit
+556,Samudram,Drama,6,70,60,8.3,0.34,10,Available,Recorded Success,Recorded Success,4,66.66666667,Hit
+557,Sarileru Neekevvaru,Drama,75,85,90,7.9,25.3,260,Available,Recorded Success,Recorded Success,185,246.6666667,Hit
+558,Seethamma Vakitlo Sirimalle Chettu,Drama,50,75,80,8.4,3.8,51,Available,Recorded Success,Recorded Success,1,2,Hit
+559,Sye,Drama,10,80,75,7.9,0.006,22,Available,Recorded Success,Recorded Success,12,120,Hit
+560,Loveyapa,Drama,30,37.5,25,5.4,0.447,7.69,Available,Recorded Success,Recorded Success,-22.31,-74.36666667,Flop

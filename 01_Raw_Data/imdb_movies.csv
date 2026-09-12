@@ -1,0 +1,561 @@
+﻿S.no,Movie Title,Genre,Budget (Cr),Director Success Rate,Lead Actor Success Rate,IMDb,Trailer Views (M),Box Office Revenue
+1,Aadavallu Meeku Johaarlu,Romance,20.0,71.42,51.72,5.8,9.5,7.72
+2,Ala Modalaindi,Romance,4.0,66.6,65.0,7.6,0.97,15.0
+3,Ammammagarillu,Romance,1.5,0.0,23.0,5.3,0.221,21.5
+4,Anni Manchi Sakunamule,Romance,12.0,66.6,22.22,6.1,3.7,4.45
+5,Appudo Ippudo Eppudo,Romance,15.0,75.0,55.0,4.7,3.5,0.7
+6,Arya 2,Romance,21.0,80.0,52.63,7.5,58,25.0
+7,Ashoka Vanamlo Arjuna Kalyanam,Romance,10.0,66.66,30.0,7.4,3.2,9.0
+8,Baby,Romance,10.0,80.0,33.3,7.1,22,80.0
+9,Chal Mohan Ranga,Romance,25.0,33.33,29.0,5.9,10,8.5
+10,Chitralahari,Romance,25.0,71.42,56.25,7.1,5.8,26.05
+11,Color Photo,Romance,1.0,100.0,60.0,8.1,5.9,2.62
+12,Dear Comrade,Romance,5.0,100.0,46.15,7.3,18,37.33
+13,Desamuduru,Romance,10.0,47.05,52.63,6.2,1.1,36.0
+14,DJ Tillu,Romance,5.0,25.0,85.71,7.2,15,125.0
+15,Endukante... Premanta,Romance,26.0,50.0,33.0,6.0,0.078,129.0
+16,Hello Guru Prema Kosame,Romance,25.0,62.5,33.0,7.1,9.3,36.0
+17,Hello!,Romance,14.0,55.55,40.0,7.3,13,17.82
+18,Hi Nanna,Romance,70.0,100.0,65.0,8.2,2.8,74.57
+19,Ishq,Romance,8.0,55.55,29.0,7.4,4.9,20.0
+20,Kandireega,Romance,15.0,33.34,33.0,6.2,0.06,30.0
+21,Kotha Bangaru Lokam,Romance,3.5,50.0,16.0,6.8,15,8.0
+22,Kumari 21F,Romance,10.5,100.0,42.85,7.6,0.426,21.0
+23,Majili,Romance,5.0,60.0,52.0,7.3,10,68.05
+24,Majnu,Romance,1.7,100.0,65.0,6.4,0.016,2.18
+25,Malli Malli Idi Rani Roju,Romance,15.0,50.0,51.72,7.4,0.07,26.2
+26,Manmadhudu 2,Romance,30.0,50.0,80.0,4.8,8.4,1.0
+27,Mehbooba,Romance,22.0,47.05,25.0,4.6,5.9,3.0
+28,Miss You,Romance,12.0,33.33,44.0,6.2,1,3.41
+29,Month of Madhu,Romance,1.5,80.0,55.55,6.8,3.3,2.5
+30,Most Eligible Bachelor,Romance,30.0,100.0,40.0,6.2,0.755,50.0
+31,Nenu Sailaja,Romance,20.0,71.42,33.0,6.9,1.2,35.64
+32,Ninu Kori,Romance,25.0,60.0,65.0,7.5,8.3,55.0
+33,Padi Padi Leche Manasu,Romance,12.0,60.0,46.2,6.4,6.6,8.0
+34,Prema Vimanam,Romance,3.5,100.0,100.0,6.1,0.485,4.5
+35,Prince,Romance,4.0,75.0,68.75,4.4,5.5,30.0
+36,Radhe Shyam,Romance,200.0,20.0,45.45,5.2,42,140.0
+37,Rarandoi Veduka Chudham,Romance,15.0,75.0,52.0,5.6,4.8,50.0
+38,Saahasam Swaasaga Saagipo,Romance,25.0,77.27,52.0,6.6,1.1,3.9
+39,Sammathame,Romance,5.0,0.0,33.3,5.6,6,4.79
+40,Shyam Singha Roy,Romance,50.0,66.66,65.0,7.6,14,65.0
+41,Sita Ramam,Romance,25.0,60.0,50.0,8.5,16,100.0
+42,The Family Star,Romance,50.0,100.0,46.15,5.4,15,21.49
+43,Tholi Prema,Romance,20.0,80.0,50.0,7.2,8.8,45.0
+44,Uppena,Romance,14.0,100.0,50.0,6.5,31,105.0
+45,Varudu Kaavalenu,Romance,8.6,30.0,50.0,6.4,5.4,6.1
+46,Vinaro Bhagyamu Vishnu Katha,Romance,6.67,100.0,44.44,6.7,0.482,17.9
+47,World Famous Lover,Romance,23.0,50.0,46.15,6.9,15,8.6
+48,Yeto Vellipoyindhi Manasu,Romance,13.0,77.27,65.0,7.3,0.921,130.0
+49,Retro,Romance,65.0,76.92,61.4,8.0,23,90.0
+50,Arjun Reddy,Romance,5.0,100.0,46.15,7.9,56,51.0
+51,Premalu,Romance,3.0,75.0,66.67,7.8,0.714,136.25
+52,Choosi Choodangaane,Romance,30.0,50.0,40.17,6.3,0.084,11.78
+53,Sapta Sagaradaache Ello: Side B,Romance,10.0,100.0,75.0,8.0,6.3,17.2
+54,Atithi Devo Bhava,Romance,10.0,60.0,28.57,5.6,0.278,13.5
+55,SR Kalyanamandapam,Romance,4.5,100.0,75.0,5.7,7.5,12.31
+56,Manchi Rojulochaie,Romance,3.0,60.0,23.0,4.7,8.2,5.0
+57,Shatamanam Bhavati,Romance,8.0,50.0,46.2,7.0,0.58,10.7
+58,Srinivasa Kalyanam,Romance,6.0,50.0,65.0,6.1,6,12.9
+59,Govindudu Andarivadele,Romance,30.0,51.0,57.14,5.7,0.2,70.0
+60,Jaanu,Romance,21.0,33.33,46.2,7.0,9.1,8.54
+61,Shaakuntalam,Romance,65.0,38.0,61.0,4.3,5.7,20.0
+62,Bubblegum,Romance,1.0,60.0,20.0,6.2,3.8,0.115
+63,Bommarillu,Romance,10.0,47.0,38.0,8.2,0.19,66.5
+64,Raja Vaaru Rani Gaaru,Romance,1.3,66.66,75.0,7.4,4.9,2.2
+65,Bachhala Malli,Romance,3.6,33.33,38.5,8.3,6.5,2.0
+66,Ye Maaya Chesave,Romance,10.0,55.0,45.0,7.7,0.195,30.0
+67,Krishna Gaadi Veera Prema Gaadha,Romance,14.0,60.0,65.0,7.4,0.897,23.3
+68,18 Pages,Romance,16.0,66.7,33.33,7.1,13,25.0
+69,Adbhutham,Romance,15.0,100.0,50.0,7.4,8.1,17.2
+70,Heart Attack,Romance,15.0,63.6,65.0,5.3,0.973,40.0
+71,Mere Husband Ki Biwi,Romance,30.0,33.33,26.7,4.4,23,11.7
+72,Nadaaniyan,Romance,60.0,10.0,10.0,2.9,14,6.0
+73,Rocky Aur Rani Kii Prem Kahaani,Romance,16.0,85.7,69.77,6.5,53,35.5
+74,Kabir Singh,Romance,68.0,100.0,43.0,7.0,110,379.02
+75,Sanam Teri Kasam,Romance,18.0,25.0,20.0,7.8,1.5,44.5
+76,Dil Dhadakne Do,Romance,55.0,60.0,48.0,7.0,6.3,150.0
+77,Dilwale,Romance,1.2,75.0,45.0,5.1,43,3.2
+78,Dil Bechara,Romance,38.0,50.0,55.6,8.3,97,50.0
+79,Do Aur Do Pyaar,Romance,40.0,25.0,68.0,6.4,17,4.63
+80,Tu Jhoothi Main Makkaar,Romance,200.0,60.0,60.0,6.0,77,210.0
+81,Haseen Dillruba,Romance,3.9,50.0,35.0,6.9,2.5,4.14
+82,The Archies,Romance,45.0,60.0,10.0,4.2,3.2,22.0
+83,Kho Gaye Hum Kahan,Romance,15.0,100.0,40.0,7.3,0.369,18.0
+84,Zero,Romance,200.0,50.0,45.0,5.2,125,191.43
+85,Wild Wild Punjab,Romance,16.0,60.0,36.0,6.2,34,72.0
+86,Shubh Mangal Zyada Saavdhan,Romance,30.0,100.0,70.0,5.8,59,87.0
+87,Gehraiyaan,Romance,80.0,66.0,50.0,5.8,45,140.0
+88,Meenakshi Sundareshwar,Romance,4.0,50.0,60.0,6.7,8.6,1.0
+89,Satyaprem Ki Katha,Romance,60.0,80.0,50.0,6.7,42,117.77
+90,Dream Girl 2,Romance,35.0,67.0,70.0,5.2,43,140.56
+91,Phir Aayi Hasseen Dillruba,Romance,82.0,100.0,35.0,5.8,36,458.69
+92,Govinda Naam Mera,Romance,70.0,100.0,40.0,6.5,9.1,62.0
+93,"Love, Sitara",Romance,7.0,50.0,20.0,5.3,0.231,8.5
+94,Jug Jugg Jeeyo,Romance,85.0,66.0,72.0,6.1,45,85.03
+95,Love Aaj Kal,Romance,50.0,50.0,50.0,4.7,50,52.6
+96,Tiku Weds Sheru,Romance,4.5,20.0,70.0,3.4,23,3.4
+97,Starfish,Romance,12.0,50.0,0.0,4.4,13,24.0
+98,Love Hostel,Romance,20.0,25.0,60.0,5.7,1.4,10.0
+99,Khaali Peeli,Romance,20.0,45.0,40.0,2.5,8,52.38
+100,Janhit Mein Jaari,Romance,6.0,50.0,60.0,6.8,18,5.98
+101,Hungama 2,Romance,20.0,24.0,60.0,3.2,4.7,147.68
+102,Bunty Aur Babli 2,Romance,45.0,100.0,50.0,4.1,25,22.12
+103,Plan A Plan B,Romance,8.0,50.0,60.0,4.6,22,10.17
+104,Dhadak,Romance,41.0,100.0,55.0,4.6,20,95.12
+105,Laila Majnu,Romance,1.7,50.0,50.0,7.7,19,2.18
+106,Kalank,Romance,150.0,33.33,72.0,3.7,38,145.0
+107,Housefull 4,Romance,189.0,75.0,52.0,3.6,126,197.68
+108,Gully Boy,Romance,65.0,60.0,56.25,7.9,64,238.16
+109,Student of the Year 2,Romance,80.0,85.7,45.0,2.2,75,98.16
+110,Student of the Year,Romance,59.0,85.7,74.5,5.3,14,70.0
+111,Luka Chuppi,Romance,25.0,100.0,50.0,6.4,69,75.24
+112,Sonu Ke Titu Ki Sweety,Romance,25.0,60.0,50.0,7.1,41,156.46
+113,Dream Girl ,Romance,28.0,67.0,70.0,5.2,50,200.8
+114,De De Pyaar De,Romance,75.0,50.0,46.0,6.5,76,143.0
+115,Pati Patni Aur Woh,Romance,30.0,33.33,50.0,5.8,58,117.7
+116,The Zoya Factor,Romance,33.0,50.0,50.0,4.4,23,6.96
+117,Bajirao Mastani,Romance,145.0,60.0,56.25,7.3,17,356.2
+118,Qarib Qarib Single,Romance,8.2,0.0,50.0,7.1,15,16.33
+119,Toilet: A Love Story,Romance,75.0,33.33,52.0,7.2,0.927,311.5
+120,Dear Zindagi,Romance,30.0,100.0,83.3,7.4,6.4,120.0
+121,Kapoor & Sons,Romance,35.0,66.0,60.0,7.7,16,120.01
+122,Ae Dil Hai Mushkil,Romance,100.0,85.7,60.0,5.9,23,240.0
+123,OK Jaanu,Romance,27.0,66.0,57.89,5.3,28,39.23
+124,Jab Harry Met Sejal,Romance,80.0,50.0,45.0,5.1,14,147.76
+125,Badrinath Ki Dulhania,Romance,47.5,100.0,72.0,6.1,39,194.81
+126,Tamasha,Romance,87.0,50.0,60.0,7.4,1.2,136.63
+127,Shaadi Mein Zaroor Aana,Romance,13.0,0.0,70.0,7.5,24,19.4
+128,Baar Baar Dekho,Romance,53.0,20.0,60.0,5.4,0.313,43.4
+129,Shubh Mangal Savdhan,Romance,17.0,100.0,70.0,6.9,18,72.36
+130,Roy,Romance,40.0,0.0,60.0,3.2,10,20.0
+131,Befikre,Romance,70.0,80.0,56.25,4.1,46,103.99
+132,Half Girlfriend,Romance,50.0,75.0,26.7,4.7,41,97.0
+133,Singh Is Bliing,Romance,9.1,75.0,52.0,5.0,5.3,12.5
+134,Prem Ratan Dhan Payo,Romance,6.0,80.0,62.02,4.4,27,43.0
+135,Kis Kisko Pyaar Karoon,Romance,15.0,75.0,36.0,5.6,7.6,7.2
+136,Tanu Weds Manu Returns,Romance,39.0,50.0,70.0,7.6,12,255.0
+137,Munna Michael,Romance,32.0,66.0,45.0,3.4,29,34.61
+138,Meri Pyaari Bindu,Romance,22.0,0.0,70.0,6.1,2.7,17.7
+139,Raabta,Romance,45.0,80.0,55.6,4.8,45,39.0
+140,Shaandaar,Romance,60.0,60.0,43.0,3.7,15,75.0
+141,Three of Us,Romance,0.2,50.0,50.0,7.5,3.6,0.3
+142,Auron Mein Kahan Dum Tha,Romance,10.0,57.0,46.0,6.5,66,12.91
+143,Tara vs Bilal,Romance,20.0,30.0,20.0,5.9,9.2,12.0
+144,Teri Baaton Mein Aisa Uljha Jiya,Romance,10.0,100.0,43.0,6.2,61,13.3
+145,Atrangi re,Romance,12.0,50.0,60.0,6.5,8.3,20.0
+146,RRR,Action,550.0,100.0,54.43,7.8,85,1200.0
+147,Baahubali: The Beginning,Action,180.0,100.0,45.45,8.0,29,650.0
+148,Adipurush,Action,700.0,50.0,42.725,2.7,30,388.35
+149,Baahubali: The Conclusion,Action,250.0,100.0,45.45,8.2,66,1788.06
+150,Pushpa: The Rise - Part 1,Action,225.0,77.78,52.63,7.6,74,393.5
+151,Salaar,Action,270.0,100.0,45.45,6.6,53,700.0
+152,Kalki 2898 AD,Action,600.0,100.0,45.45,7.0,31,1054.67
+153,Pushpa: The Rule - Part 2,Action,450.0,77.78,52.63,6.1,113,1740.0
+154,1: Nenokkadine,Action,65.0,77.78,75.0,8.0,0.699,30.79
+155,Game Changer,Action,450.0,76.92,57.14,5.5,58,178.0
+156,Daaku Maharaj,Action,100.0,80.0,60.0,6.0,18,133.0
+157,Devara part 1,Action,300.0,83.33,51.72,6.0,49,403.83
+158,Hanu Man,Action,40.0,75.0,60.0,7.7,25,294.18
+159,Saripodhaa Sanivaaram,Action,90.0,100.0,65.0,7.0,22,100.03
+160,Razakar: The Silent Genocide of Hyderabad,Action,10.0,100.0,12.5,7.4,1.6,0.93
+161,Janatha Garage,Action,50.0,83.33,51.72,7.2,7.7,130.35
+162,Bhagavanth Kesari,Action,100.0,100.0,60.0,5.8,25,135.0
+163,Zebra,Action,10.0,50.0,45.0,8.0,3.1,6.2
+164,Godfather,Action,120.0,90.0,65.0,5.1,20,119.09
+165,Magadheera,Action,40.0,100.0,57.14,7.7,0.7,150.0
+166,Virata Parvam,Action,15.0,50.0,50.5,6.7,10,12.0
+167,Macherla Niyojakavargam,Action,30.0,0.0,29.0,4.5,23,16.65
+168,Gandeevadhari Arjuna,Action,46.0,14.29,33.0,5.4,10,3.0
+169,Indra,Action,8.0,75.0,60.0,7.5,0.189,53.0
+170,The Ghost,Action,6.0,14.29,65.0,5.1,12,12.17
+171,Krishnarjuna Yudham,Action,20.0,40.0,65.0,5.8,6.9,14.8
+172,Simhadri,Action,8.5,100.0,51.72,7.3,0.68,30.0
+173,Raja the great,Action,30.0,100.0,52.5,6.3,7.1,52.0
+174,Aditya 369,Action,1.52,75.0,60.0,8.4,0.017,9.0
+175,Oosaravelli,Action,25.0,60.0,51.72,6.5,0.082,57.0
+176,Rachcha,Action,50.0,60.0,57.14,4.5,0.433,44.78
+177,Bhaje Vaayu Vegam,Action,15.0,100.0,30.0,6.1,6.1,7.2
+178,Parugu,Action,1.15,50.0,52.63,7.1,0.042,20.0
+179,Khaidi No. 150,Action,50.0,70.6,65.0,5.8,10,164.0
+180,Panjaa,Action,33.0,55.6,55.0,6.5,0.324,50.0
+181,Dasara,Action,65.0,100.0,65.0,6.6,15,62.99
+182,Bhadra,Action,6.0,60.0,52.5,6.8,0.041,21.0
+183,"Naa Peru Surya, Naa Illu India",Action,55.0,43.0,52.63,6.7,12,85.0
+184,Vinaya Vidheya Rama,Action,70.0,60.0,57.14,3.3,38,62.6
+185,Touch Chesi Chudu,Action,15.0,0.0,52.5,4.7,4.7,19.0
+186,Legend,Action,40.0,60.0,60.0,6.2,3.3,88.0
+187,Veera Simha Reddy,Action,100.0,71.0,60.0,4.8,25,134.0
+188,Acharya,Action,140.0,83.0,61.07,3.8,38,76.7
+189,Rebel,Action,40.0,72.0,42.725,4.9,0.29,104.0
+190,Don,Action,16.85,86.0,65.0,5.8,2.6,20.0
+191,Marco,Action,30.0,100.0,60.0,6.8,12.3,100.0
+192,Arjun S/O Vijayanthi,Action,100.0,100.0,25.0,6.1,12.3,15.0
+193,Major,Action,32.0,100.0,80.0,8.1,14,64.0
+194,Jack,Action,80.0,0.0,66.7,5.6,2.3,78.0
+195,Liger,Action,90.0,61.1,50.0,2.6,50,20.05
+196,Skanda,Action,50.0,50.0,33.0,4.2,50,57.5
+197,Ugram,Action,15.0,50.0,76.0,6.5,7.5,45.0
+198,Saindhav,Action,80.0,66.0,57.0,5.1,8.2,18.4
+199,Pottel,Action,7.5,0.0,70.0,8.1,2.3,15.0
+200,Warrior,Action,70.0,50.0,33.0,4.8,18,313.2
+201,Tuck Jagadish,Action,5.0,66.0,65.0,5.6,3.5,45.0
+202,Zombie reddy,Action,4.0,66.0,60.0,6.6,4.5,25.0
+203,Rama rao on duty,Action,55.0,0.0,52.5,5.1,10,35.0
+204,Bheemla nayak,Action,75.0,50.0,51.0,6.3,11.8,192.0
+205,Buddy,Action,25.0,50.0,28.0,3.8,20,20.0
+206,Gandharva dhaari arjuna,Action,50.0,50.0,87.5,5.4,10,18.0
+207,krack,Action,35.0,66.0,52.5,6.9,5,70.6
+208,Dhamaka ,Action,35.0,66.0,52.5,6.2,6,110.0
+209,Wild dog,Action,6.0,0.0,65.0,6.1,10,35.0
+210,Aadhikeshava,Action,20.0,0.0,27.5,4.2,7.96,0.02
+211,Bhimbisara,Action,40.0,100.0,25.0,6.8,29,50.0
+212,Double ismart,Action,47.5,50.0,33.0,2.9,1.5,1.15
+213,Seetimaar,Action,25.0,50.0,55.0,5.0,10,15.1
+214,Devil,Action,45.0,0.0,25.0,6.5,16,20.0
+215,Ravanasura,Action,50.0,50.0,52.5,5.7,10,24.0
+216,Disco raja,Action,30.0,50.0,52.5,6.1,6.9,26.0
+217,Republic,Action,40.0,50.0,44.0,7.8,14,40.0
+218,Michael,Action,14.5,50.0,60.0,5.0,12,12.0
+219,Son of india,Action,400.0,0.0,64.0,3.2,2.1,0.17
+220,Operation valentine,Action,45.0,0.0,87.5,4.3,7.2,20.0
+221,Saaho,Action,325.0,50.0,45.45,5.1,58,429.0
+222,Goodachari,Action,6.0,100.0,80.0,8.5,3.5,45.0
+223,V,Action,25.0,60.0,65.0,6.8,10,50.0
+224,Wailtar veerayaa,Action,140.0,50.0,65.0,6.2,2.7,25.0
+225,Dhruva,Action,50.0,66.0,57.14,7.7,5,120.0
+226,Ganga of godavari,Action,11.0,50.0,53.3,5.0,7.8,20.8
+227,Na saami ranga,Action,45.0,0.0,65.0,4.5,6.7,30.5
+228,Sye ra narashima reddy,Action,200.0,50.0,65.0,7.5,12,240.0
+229,Savyasachi,Action,24.0,50.0,65.4,4.1,3,60.0
+230,Chhaava,Action,130.0,100.0,40.0,7.3,78,750.0
+231,Deva,Action,50.0,0.0,43.0,6.7,37,30.0
+232,Dangal,Action,70.0,100.0,85.0,8.3,100,1996.0
+233,Animal,Action,100.0,100.0,70.0,6.1,113,550.0
+234,Kesari,Action,80.0,100.0,75.0,7.4,10,65.45
+235,Hotel Mumbai,Action,1.73,100.0,60.0,7.6,5,2.13
+236,Gangs of Wasseypur,Action,18.4,75.0,85.0,8.2,5,4.3
+237,Fighter,Action,250.0,100.0,80.0,6.2,45,344.0
+238,Baby John,Action,160.0,100.0,72.0,5.2,71,180.0
+239,Jawan,Action,300.0,100.0,90.0,6.9,45,1159.0
+240,Shershaah,Action,75.0,100.0,60.0,8.3,10,100.0
+241,Jigra,Action,85.0,0.0,83.3,6.0,57,15.0
+242,Dunki,Action,120.0,100.0,90.0,6.5,80,470.6
+243,Haider,Action,35.0,100.0,80.0,8.0,3,85.0
+244,Sikandar Ka Muqaddar,Action,1.0,75.0,75.0,6.0,47,17.0
+245,Pathaan,Action,250.0,100.0,90.0,5.8,10,1052.5
+246,Uri: The Surgical Strike,Action,44.0,100.0,80.0,8.2,13,342.73
+247,Article 370,Action,20.0,50.0,72.5,7.8,32,8.0
+248,Brahmastra Part One: Shiva,Action,410.0,100.0,70.0,5.6,10,430.77
+249,Shehzada,Action,85.0,50.0,60.0,4.5,75,47.0
+250,War,Action,170.0,100.0,80.0,6.6,10,475.0
+251,Tiger 3,Action,300.0,75.0,85.0,5.7,82,466.63
+252,Tiger Zinda Hai,Action,130.0,100.0,85.0,5.9,29,565.0
+253,Bade Miyan Chote Miyan,Action,350.0,100.0,75.0,3.7,55,28.84
+254,Ek Tha Tiger,Action,75.0,100.0,85.0,5.7,5,320.0
+255,Bang Bang,Action,140.0,100.0,80.0,5.7,0.176,340.0
+256,Ram Setu,Action,150.0,50.0,75.0,5.3,42,185.0
+257,Baadshaho,Action,90.0,50.0,80.0,4.9,20,150.0
+258,Dhoom 2,Action,3.5,100.0,80.0,6.6,2.6,370.0
+259,Dhoom 3,Action,100.0,75.0,85.0,5.4,37,550.0
+260,Yodha,Action,55.0,75.0,60.0,5.7,38,85.0
+261,Kisi Ka Bhai Kisi Ki Jaan,Action,125.0,50.0,85.0,4.0,57,185.0
+262,A Flying Jatt,Action,45.0,50.0,50.0,3.1,41,75.0
+263,Shamshera,Action,150.0,50.0,70.0,4.7,108,85.0
+264,Sherni,Action,0.25,100.0,80.0,6.8,21,25.0
+265,Junglee,Action,22.0,50.0,60.0,5.5,44,100.0
+266,Housefull 2,Action,75.0,75.0,75.0,5.4,2.7,200.0
+267,Khufiya,Action,37.5,100.0,82.5,6.1,41,10.0
+268,Chandu Champion,Action,105.0,100.0,60.0,7.8,47,5.0
+269,Raazi,Action,30.0,100.0,90.0,7.7,33,197.0
+270,Happy New Year,Action,150.0,75.0,80.0,5.0,9.7,342.0
+271,Agni,Action,40.0,50.0,82.5,7.2,15,50.0
+272,An Action Hero,Action,45.0,50.0,80.0,7.0,29,16.24
+273,Ludo,Action,35.0,100.0,75.0,7.6,9.4,100.0
+274,Vikram Vedha,Action,100.0,100.0,80.0,7.1,61,135.03
+275,Sankrathiki Vasthunam,Comedy,50.0,75.0,83.0,6.3,21,260.0
+276,14 Days,Comedy,2.0,30.0,20.0,9.0,1.2,0.5
+277,Srikakulam Sherlockhomes,Comedy,10.7,20.0,70.0,8.3,2.9,3.0
+278,Mazaka,Comedy,30.0,62.5,60.0,6.0,1.4,12.0
+279,Manamey,Comedy,20.0,40.0,75.0,9.2,7,17.0
+280,Ala vaikuntapuramloo,Comedy,100.0,80.0,90.0,7.3,36,280.0
+281,Laila,Comedy,18.0,73.3,30.0,2.6,8,10.0
+282,Eega,Comedy,35.0,100.0,95.0,7.7,0.37,130.0
+283,Sarileru Neekevaru,Comedy,75.0,75.0,75.0,5.8,45,207.0
+284,SVSC,Comedy,40.0,40.0,83.0,7.5,0.44,51.0
+285,Geetha govindam,Comedy,5.0,30.0,60.0,7.7,12,70.0
+286,Tillu Sqaure,Comedy,40.0,80.0,70.0,6.6,15,125.0
+287,Kushi,Comedy,70.0,71.4,95.0,5.4,21,180.0
+288,Om Bheem Bush,Comedy,20.0,50.0,70.0,5.6,5.6,17.0
+289,Mathu vadalara,Comedy,2.0,66.5,70.0,8.2,3,10.0
+290,Alludu Seenu,Comedy,35.0,70.5,30.0,4.6,0.54,15.6
+291,Kick,Comedy,15.0,60.0,80.0,7.9,0.22,36.0
+292,Oh Baby,Comedy,30.0,50.0,95.0,7.3,9,38.0
+293,Brundavanam,Comedy,28.0,80.0,90.0,7.1,0.61,35.0
+294,Don seenu,Comedy,30.0,85.7,85.0,6.0,0.34,90.0
+295,Ori devuda,Comedy,15.0,96.0,30.0,7.1,0.88,10.0
+296,Rangabali,Comedy,12.0,30.0,45.0,5.0,5.9,16.0
+297,bomarillu,Comedy,6.0,44.5,60.0,8.2,0.63,32.0
+298,Attarintiki daredi,Comedy,55.0,80.0,95.0,7.3,0.25,187.0
+299,darling,Comedy,6.5,90.0,90.0,7.4,0.2,4.75
+300,dhamaka,Comedy,35.0,62.5,80.0,6.2,3.8,110.0
+301,krishnarjuna yuddham,Comedy,20.0,40.0,95.0,5.8,6.9,38.0
+302,bro,Comedy,20.0,60.0,60.0,6.0,37,115.0
+303,devadas,Comedy,18.0,50.0,95.0,6.5,7,90.0
+304,krishna and his leela,Comedy,3.0,80.0,70.0,5.8,0.71,12.0
+305,nenu local,Comedy,16.0,62.5,95.0,6.4,4.4,58.0
+306,Aadavallu miku joharalu,Comedy,33.0,75.0,75.0,5.8,9.5,35.5
+307,Jathi ratnalu,Comedy,6.0,33.3,60.0,7.3,22,70.0
+308,samajavaragamana,Comedy,5.0,33.3,70.0,7.5,3.7,30.0
+309,maryada ramanna,Comedy,14.0,100.0,80.0,7.5,0.14,28.5
+310,Malliswari,Comedy,10.0,42.8,83.0,7.8,0.45,30.0
+311,Ante sundharaniki,Comedy,30.0,75.0,95.0,8.0,20,30.0
+312,Aadavari matalaku ardalu verule,Comedy,3.0,40.6,83.0,7.6,0.35,10.0
+313,Pilla zamindar,Comedy,7.0,70.0,80.0,7.7,20,50.0
+314,Kandeerga,Comedy,15.0,60.0,60.0,6.2,0.6,22.0
+315,Soggade chinni nayana,Comedy,20.0,85.0,90.0,6.3,1.5,82.0
+316,Agent sai srinivasa athreya,Comedy,1.5,75.0,90.0,8.3,5,15.0
+317,Ashta chamma,Comedy,1.6,70.0,70.0,7.4,0.6,7.0
+318,MAD,Comedy,8.0,60.0,60.0,7.5,10,26.0
+319,Jalsa,Comedy,25.0,90.0,90.0,7.4,2,47.55
+320,Manmadhudu,Comedy,5.0,85.0,90.0,4.8,0.237,30.0
+321,Shankar dada MBBS,Comedy,15.0,50.0,90.0,7.6,0.434,20.0
+322,Ginna,Comedy,25.0,85.0,50.0,3.0,7.3,2.0
+323,Gopala gopala,Comedy,12.0,90.0,90.0,7.2,0.574,88.1
+324,Oopiri,Comedy,21.0,75.0,90.0,8.0,3,30.0
+325,Pelli choopulu,Comedy,1.2,75.0,60.0,8.5,0.794,30.0
+326,Mem famous,Comedy,3.0,30.0,20.0,7.1,1.7,3.9
+327,Orange,Comedy,32.0,44.5,57.14,6.7,0.223,3.36
+328,Krishana gadi veera prema kadha,Comedy,14.0,66.66,95.0,7.4,0.53,10.86
+329,Chalo,Comedy,3.0,30.0,40.17,6.3,0.916,16.0
+330,F3,Comedy,60.0,75.0,83.0,4.7,5.7,134.0
+331,Doctor,Comedy,40.0,42.8,75.0,7.4,3.5,90.0
+332,Varsham,Comedy,10.0,62.5,73.33,7.3,0.26,32.0
+333,Premam,Comedy,20.0,30.0,40.17,6.4,3.2,60.0
+334,Fidaa,Comedy,13.0,75.0,50.0,7.4,12,91.0
+335,Middle class melodies,Comedy,2.0,75.0,40.0,7.5,0.204,51.0
+336,Duvvada jaganadham,Comedy,50.0,60.0,90.0,6.0,22,125.0
+337,Badri,Comedy,20.0,61.1,60.0,7.3,0.11,18.0
+338,Race gurram,Comedy,52.0,60.0,90.0,7.3,0.112,101.3
+339,Gam gam ganesha,Comedy,4.0,0.0,40.0,5.3,3.4,6.05
+340,Gang leader,Comedy,40.0,25.0,95.0,7.6,7,45.8
+341,Supreme,Comedy,20.0,75.0,42.85,6.1,1.2,20.0
+342,Keeda cola,Comedy,2.0,75.0,30.0,7.4,6.6,16.0
+343,Daruvu,Comedy,20.0,60.7,85.0,5.3,0.3,20.0
+344,Das ka dhamki,Comedy,8.59,100.0,30.0,6.1,8.2,22.8
+345,Happy,Comedy,2.0,90.0,90.0,7.1,1.6,18.0
+346,Mirapakay,Comedy,1.5,60.0,85.0,6.3,0.218,17.02
+347,Size zero,Comedy,25.0,28.5,70.0,5.5,7.5,9.5
+348,Kirrak party,Comedy,10.0,50.0,33.33,7.0,3.2,11.0
+349,Aay,Comedy,8.0,75.0,33.33,6.4,3.1,14.09
+350,King,Comedy,20.0,70.0,90.0,6.5,0.45,100.0
+351,Sailja reddy alludu,Comedy,15.0,60.0,40.17,5.0,8.3,26.5
+352,Venkatadri express,Comedy,10.0,40.0,60.0,7.5,0.329,13.5
+353,Raja raja chor,Comedy,2.2,20.0,70.0,7.5,0.38,11.15
+354,Hushaaru,Comedy,1.0,66.66,30.0,6.7,1.2,5.0
+355,ABCD,Comedy,4.5,25.0,10.0,5.5,7,12.5
+356,Rang de,Comedy,30.0,80.0,65.0,6.3,16,24.0
+357,Dubai seenu,Comedy,9.0,50.0,85.0,6.5,0.32,15.89
+358,PellisandaD,Comedy,1.25,70.0,10.0,2.9,11,12.0
+359,Khaleja,Comedy,32.0,80.0,75.0,7.6,0.85,20.02
+360,F2,Comedy,30.0,75.0,83.0,6.1,14,100.0
+361,Ready,Comedy,8.0,70.0,33.0,7.2,0.16,17.0
+362,Run raaja run,Comedy,4.0,20.0,65.0,7.3,0.574,20.0
+363,Kalyana vibhogame,Comedy,1.0,50.0,35.2,7.5,0.676,1.53
+364,Babu bangaram,Comedy,20.0,60.0,83.0,5.0,0.953,80.0
+365,Loukhyam,Comedy,12.0,44.44,73.33,8.0,0.65,50.0
+366,Krishna vrinda vihari,Comedy,8.9,50.0,35.2,5.8,0.987,8.9
+367,Bruce Lee,Comedy,5.0,70.0,57.14,8.0,0.451,30.0
+368,Oka laila kosam,Comedy,20.0,33.33,40.17,6.0,0.83,40.0
+369,Writer padmabhusam,Comedy,3.0,100.0,75.0,7.5,0.178,10.34
+370,Dhee,Comedy,5.0,70.0,20.0,7.2,11,12.0
+371,Raju gari gadhi,Comedy,2.0,60.0,33.33,5.1,0.53,50.0
+372,Paagal,Comedy,7.0,0.0,30.0,5.6,7.7,6.0
+373,Anubavinchu raaja,Comedy,8.0,66.0,40.0,5.4,6.1,4.95
+374,Body guard,Comedy,20.0,50.0,83.0,5.0,0.12,21.3
+375,Sundaram master,Comedy,1.5,0.0,70.0,7.0,3,55.0
+376,Seema tapakai,Comedy,4.0,60.0,65.0,7.3,3.4,2.06
+377,Pareshan,Comedy,1.15,50.0,33.0,5.7,1.3,12.0
+378,Sudigaadu,Comedy,3.5,60.0,65.0,6.1,0.306,22.0
+379,Like share and subscribe,Comedy,2.0,40.0,23.0,5.2,2,1.34
+380,Gaali sampath,Comedy,20.0,50.0,70.0,6.5,0.145,0.8
+381,BomBhaat,Comedy,10.0,0.0,65.0,5.6,1.4,1.0
+382,Kithakithalu,Comedy,1.5,80.0,70.0,6.0,57,8.0
+383,Pressure cooker,Comedy,4.4,0.0,41.67,6.3,0.152,0.6
+384,Bheeshma,Comedy,25.0,30.0,65.0,6.6,14,50.0
+385,Naani,Comedy,14.0,62.5,75.0,5.2,0.823,71.65
+386,Tenali ramakrishna BA. BL,Comedy,8.0,25.0,60.0,4.9,3.7,10.0
+387,Jyo Achyutananda,Comedy,1.2,40.0,35.2,6.1,1.1,7.0
+388,Mahanubhavudu,Comedy,12.0,60.0,65.0,6.4,4.5,36.0
+389,Happy birthday,Comedy,6.0,33.33,40.5,5.6,1.1,3.0
+390,Poola Rangadu,Comedy,2.0,25.0,80.0,5.6,0.138,8.0
+391,Sudigadu,Comedy,1.0,25.0,75.0,6.1,0.442,14.0
+392,Robinhood,Comedy,60.0,30.0,65.0,4.5,15,15.0
+393,Swag,Comedy,15.0,20.0,70.0,7.5,2.4,4.15
+394,Maruti nagar subramanyam,Comedy,4.0,0.0,40.0,7.7,0.339,4.0
+395,35 chinna katha kadu,Comedy,15.0,40.0,65.0,7.9,0.537,3.35
+396,Pakka commercial,Comedy,12.5,60.0,73.33,4.2,8.3,14.18
+397,Slum dog husband,Comedy,1.0,20.0,10.0,6.5,0.221,0.4
+398,Ramnagar bunny,Comedy,4.0,0.0,30.0,6.9,1,1.35
+399,Lucky bhaskar,Thriller,56.0,70.0,100.0,8.0,2.1,107.0
+400,Thandel,Thriller,80.0,80.0,20.0,5.9,15,100.0
+401,Kalki-2989AD,Thriller,200.0,80.0,43.0,7.0,31,1200.0
+402,Fear,Thriller,12.0,60.0,30.0,8.8,1,15.0
+403,Legally Veer,Thriller,4.0,100.0,0.0,7.9,0.06,0.08
+404,Pushpa the rise-part 1,Thriller,200.0,77.78,52.63,7.6,74,373.0
+405,Hathya,Thriller,6.0,50.0,33.0,7.7,2,0.24
+406,Agent,Thriller,150.0,75.0,25.0,3.7,0.17,10.05
+407,Devara -1,Thriller,200.0,80.0,45.0,6.0,20,146.0
+408,Saripodha Sanivaram,Thriller,90.0,75.0,60.0,7.0,22,94.85
+409,Ramam Raghavam,Thriller,25.0,84.0,35.0,6.2,0.546,0.3
+410,Mangalvaram,Thriller,10.0,66.67,37.5,6.8,11,21.35
+411,Guard-Revenge of Love,Thriller,4.0,50.0,31.0,9.3,1,0.03
+412,My name is Shruti,Thriller,2.5,100.0,40.0,6.2,2.8,1.0
+413,Evaru,Thriller,8.0,70.0,71.0,8.1,7.9,21.12
+414,Maguva,Thriller,24.0,49.0,25.0,4.9,0.052,3.0
+415,Mr.Bachchan,Thriller,70.0,80.0,50.0,3.6,7.1,7.0
+416,Bharat ane nenu,Thriller,60.0,80.0,75.0,7.4,20,125.0
+417,Hit the second case,Thriller,15.0,70.0,71.0,7.1,8.9,35.0
+418,Rakshana,Thriller,10.0,56.0,60.0,5.6,1.2,0.54
+419,Eagle,Thriller,150.0,50.0,50.0,5.9,15,30.6
+420,Hit,Thriller,15.0,70.0,44.0,7.6,2.2,22.0
+421,Gaami,Thriller,6.0,60.0,44.4,6.4,9.6,22.0
+422,Yashoda,Thriller,50.0,65.0,65.0,6.5,6.2,30.0
+423,Virupaksha,Thriller,30.0,85.0,46.7,7.2,14,90.5
+424,Bhoothaddam Bhaskar Narayana,Thriller,5.0,50.0,60.0,6.3,3.1,6.0
+425,RED,Thriller,30.0,60.0,33.0,6.5,0.267,6.7
+426,Highway,Thriller,25.0,60.0,33.33,3.9,1,52.44
+427,Ghatikachalam,Thriller,50.0,40.0,25.0,7.0,0.082,1.16
+428,Pushpaka Vimanam,Thriller,20.0,55.0,33.3,6.3,0.705,0.55
+429,Ekkadiki Pothavu Chinnavada,Thriller,12.0,68.0,41.0,7.4,0.021,20.0
+430,Atharva,Thriller,5.0,45.0,42.1,6.7,0.22,0.9
+431,Chakravyuham:The Trap,Thriller,2.0,55.0,71.0,7.1,0.24,2.5
+432,Nene Raju nene Mantri,Thriller,20.0,70.0,50.0,5.8,11,30.0
+433,Falaknamu Das,Thriller,5.0,60.0,44.0,6.3,5.9,12.0
+434,The Birthday Boy,Thriller,4.0,35.0,70.0,8.8,3.4,0.13
+435,Khaidi No.150,Thriller,70.0,90.0,65.0,5.8,10,164.0
+436,Drushyam 2,Thriller,20.0,80.0,83.0,8.1,17,60.0
+437,Awe!,Thriller,5.0,85.0,90.0,7.6,1,8.0
+438,Bujji Ila Raa,Thriller,3.0,50.0,50.0,6.6,2,2.0
+439,Godse,Thriller,20.0,50.0,60.0,5.7,4.6,4.0
+440,Naandhi,Thriller,15.0,75.0,85.0,7.8,5.3,9.5
+441,Aranya,Thriller,45.0,40.0,70.0,7.5,13,25.0
+442,Amigos,Thriller,60.0,45.0,35.0,6.0,13,11.75
+443,Mishan Impossible,Thriller,25.0,60.0,30.0,6.4,9,6.0
+444,Aswathama,Thriller,25.0,65.0,20.0,6.4,7.5,4.83
+445,Arjuna Phalguna,Thriller,20.0,40.0,70.0,4.8,5.5,3.0
+446,Valmiki,Thriller,30.0,75.5,75.0,6.2,1.5,35.0
+447,Chanakya,Thriller,50.0,40.3,35.0,5.4,6.8,40.0
+448,Spyder,Thriller,100.0,60.7,75.0,6.3,15,160.0
+449,Ichata Vahanumulu Niluparadu,Thriller,15.0,54.2,50.0,5.7,3.3,2.0
+450,KA,Thriller,22.0,65.8,55.0,7.2,9.8,2.0
+451,Matka,Thriller,40.0,35.9,75.0,4.7,8.8,2.0
+452,Check,Thriller,25.0,45.0,62.0,6.4,3.1,30.0
+453,Dorakuna Ituvanti Seva,Thriller,20.0,40.2,0.0,8.3,0.126,2.0
+454,Kali,Thriller,15.0,42.3,83.0,7.2,1.9,2.0
+455,Masooda,Thriller,10.0,65.7,50.0,7.2,5.1,6.0
+456,Hunt,Thriller,20.0,50.4,55.0,5.4,6.8,2.0
+457,Appudu Ippudo Eppudo,Thriller,15.0,35.2,41.0,4.7,3.5,2.0
+458,Kavacham,Thriller,25.0,45.6,35.0,5.5,2.2,35.0
+459,Lie,Thriller,40.0,48.9,60.0,5.8,4.7,55.0
+460,Spark L.I.F.E,Thriller,5.0,40.7,50.0,7.3,11,2.0
+461,Nannaku Prematho,Thriller,50.0,82.4,51.72,7.5,7.5,95.0
+462,118,Thriller,20.0,60.3,35.0,6.4,0.891,30.0
+463,Saakshyam,Thriller,30.0,50.0,45.0,4.6,9,45.0
+464,Black Rose,Thriller,2.0,38.2,50.0,4.0,0.261,1.0
+465,Maya,Thriller,10.0,66.0,76.0,43.0,3.9,1.0
+466,Anthima Theerpu,Thriller,1.15,42.7,50.0,8.1,0.677,2.0
+467,Kshanam,Thriller,15.0,75.3,70.0,8.1,1.7,7.0
+468,Ninu Veedani Needanu Nene,Thriller,15.0,55.4,50.0,5.8,3.8,3.0
+469,Satyabhama,Thriller,15.0,48.3,70.0,5.9,3.5,2.55
+470,Tiger Nagheswar Rao,Thriller,60.0,60.8,75.0,6.2,16,40.0
+471,U-Turn,Thriller,10.0,68.9,65.0,6.0,6.1,12.0
+472,Karthikeya 2,Thriller,50.0,80.2,41.0,6.9,13,135.0
+473,The story of a beautiful girl,Thriller,1.0,39.8,50.0,4.9,1.7,1.0
+474,Case 30,Thriller,1.4,41.2,50.0,7.1,1,1.5
+475,Subrahmanyapuram,Thriller,15.0,55.7,60.0,5.4,2,5.75
+476,1:Nenokkadine,Thriller,60.0,70.5,75.0,7.9,0.703,55.0
+477,Rakshasudu,Thriller,20.0,65.1,65.0,7.9,2.3,17.1
+478,Neevevaro,Thriller,4.2,58.4,60.0,6.8,2,12.0
+479,Veekshanam,Thriller,15.0,50.0,50.0,8.0,1,1.5
+480,Kota Bommali PS,Thriller,0.44,60.6,60.0,7.2,0.245,2.0
+481,Vakeel Saab,Thriller,70.0,78.9,35.0,6.9,49,135.0
+482,Arjun Suravaram,Thriller,10.0,62.7,41.0,6.6,4.5,21.0
+483,Kerosene,Thriller,3.0,45.1,50.0,7.4,0.237,1.75
+484,The Great Indian Suicide,Thriller,5.0,40.9,55.0,5.8,0.224,2.0
+485,Raagala 24 Gantallo,Thriller,15.0,50.2,60.0,5.2,0.81,2.0
+486,Jawaan,Thriller,18.0,55.8,65.0,4.7,76,1148.0
+487,Devil-The British Secret Agent,Thriller,80.0,58.6,60.0,6.5,16,22.9
+488,Bholaa Shankar,Thriller,101.0,50.5,65.0,3.3,20,47.5
+489,Raju Gari Gadhi 3,Thriller,10.0,45.9,55.0,5.5,6.1,20.71
+490,Kalki,Thriller,600.0,65.3,50.0,6.8,31,18.0
+491,Mukhachitram,Thriller,5.0,52.4,50.0,6.4,0.691,0.5
+492,Viswam,Thriller,24.0,47.8,55.0,4.2,0.88,18.96
+493,G-Zombie,Thriller,0.0025,40.3,50.0,4.5,1.2,4.5
+494,Butterfly,Thriller,15.0,54.7,54.0,4.6,8.2,12.0
+495,Jai Lava Kusa,Thriller,45.0,75.6,51.72,6.8,27,175.0
+496,Custody,Thriller,30.0,58.2,60.0,5.7,17,11.0
+497,Shivangi Lioness,Thriller,4.0,42.6,50.0,7.8,0.741,1.0
+498,Maa Oori Polimera,Thriller,6.0,60.5,60.0,7.2,1,1.1
+499,Drushyam,Thriller,6.0,70.8,83.0,8.2,0.732,20.0
+500,Gentleman,Thriller,15.0,68.4,80.0,7.1,2.8,32.6
+501,Dongalunnaru Jagratta,Thriller,2.5,45.0,55.0,5.1,0.431,20.5
+502,Amma Rajyamlo Kadapa Biddalu,Thriller,1.0,30.0,50.0,3.2,9,4.82
+503,Karthiekya,Thriller,6.0,75.0,41.0,7.2,1,20.0
+504,Bluff Master,Thriller,10.0,55.5,60.0,6.3,0.62,32.71
+505,Nene Naa,Thriller,9.0,50.0,55.0,3.9,2,0.035
+506,C/o Kancharapalem,Drama,0.77,70.0,90.0,9.5,17,3.0
+507,Billa,Drama,120.0,75.0,80.0,4.3,0.6,10.0
+508,Vachindamma,Drama,5.0,75.0,80.0,8.2,12,8.0
+509,Pelli Sandadi 2,Drama,1.25,60.0,65.0,8.3,1,5.0
+510,Prathi Roju Pandage,Drama,25.0,85.0,85.0,8.1,20,45.0
+511,Manasunna Reddy,Drama,0.8,60.0,65.0,8.5,1,7.0
+512,Kshana Kshanam 2,Drama,1.4,70.0,70.0,7.9,2,10.0
+513,Ala Vaikunthapurramuloo,Drama,100.0,90.0,95.0,8.3,90,150.0
+514,Kshana Kshanam Reloaded,Drama,1.0,65.0,70.0,8.2,1,7.0
+515,Pelli Sandadi 3,Drama,1.25,60.0,65.0,8.0,0.5,5.0
+516,Toli Prema Reloaded,Drama,7.0,70.0,80.0,7.9,4,20.0
+517,Unbeaten Geniuses,Drama,12.0,65.0,70.0,8.5,1,5.0
+518,Pelli Sandadi Revisited,Drama,3.0,60.0,65.0,5.1,0.5,3.0
+519,Dhanak,Drama,2.0,80.0,75.0,7.9,2.5,10.0
+520,Kshana Kshanam 3,Drama,3.5,65.0,70.0,8.1,1,7.0
+521,Kshana Kshanam Returns,Drama,4.0,65.0,70.0,7.9,1,6.0
+522,Chitram 2,Drama,6.0,70.0,70.0,8.0,2,7.0
+523,Kshana Kshanam 4,Drama,5.0,60.0,65.0,7.8,0.78,6.0
+524,Gamyam 2,Drama,50.0,70.0,75.0,8.1,1,10.0
+525,Rocky aur Rani ki Prem Kahani,Drama,160.0,85.0,90.0,6.5,80,355.0
+526,Gangubai Kathiawadi,Drama,180.0,90.0,90.0,7.8,65,220.0
+527,The Kashmir Files,Drama,25.0,85.0,85.0,8.5,40,300.0
+528,The White Tiger,Drama,25.0,80.0,85.0,7.1,20,0.0
+529,Thappad,Drama,20.0,85.0,90.0,7.0,15,44.0
+530,Uri : The Surgical Strike,Drama,25.0,95.0,95.0,8.2,70,342.0
+531,Aa Naluguru,Drama,1.5,70.0,60.0,8.6,0.002,3.0
+532,Aditya's Journey,Drama,13.0,85.0,70.0,8.2,9.2,90.0
+533,Baahubali 2: The Conclusion,Drama,250.0,90.0,85.0,8.2,105,1810.0
+534,Bhale Bhale Magadivoy,Drama,7.0,100.0,80.0,8.0,6.7,55.0
+535,Chinnadana Neekosam,Drama,12.0,60.0,65.0,8.0,1.9,15.0
+536,Chitram,Drama,0.8,100.0,50.0,8.7,0.18,6.0
+537,Chupultho,Drama,1.5,70.0,80.0,8.2,0.08,20.0
+538,Ee Nagaraniki Emaindi,Drama,2.5,100.0,70.0,8.1,1.8,8.0
+539,Jersey,Drama,25.0,80.0,70.0,8.5,"12,5",48.0
+540,Kalyana Vaibhogame,Drama,4.0,70.0,65.0,7.8,1.5,8.0
+541,Karthikeya,Drama,5.0,100.0,70.0,7.8,2.1,20.0
+542,Love Story,Drama,30.0,85.0,75.0,8.2,10.5,60.0
+543,Mahanati,Drama,25.0,100.0,75.0,8.4,10.3,83.0
+544,Malleswari,Drama,8.0,70.0,75.0,8.4,0.45,20.0
+545,Manam,Drama,28.0,80.0,85.0,8.4,0.45,62.0
+546,NTR Kathanayakudu,Drama,50.0,75.0,80.0,8.4,3.2,20.0
+547,Nuvvu Naaku Nachchav,Drama,6.0,75.0,80.0,8.8,0.47,20.0
+548,Okka Kshanam,Drama,10.0,60.0,65.0,7.8,1.9,5.0
+549,Pelli Sandadi,Drama,2.0,80.0,75.0,8.0,11,15.0
+550,Prema Katha Chitram,Drama,2.0,75.0,70.0,8.0,2.8,20.0
+551,Prema Katha Chitram 2,Drama,3.0,50.0,50.0,8.1,1.3,5.0
+552,Raghavendra,Drama,8.0,60.0,70.0,8.5,0.035,12.0
+553,Raja Rani,Drama,15.0,100.0,80.0,8.1,5.6,50.0
+554,Rajanna,Drama,20.0,60.0,70.0,8.1,2.3,8.0
+555,Rangasthalam,Drama,60.0,90.0,85.0,8.4,12.7,216.0
+556,Samudram,Drama,6.0,70.0,60.0,8.3,0.34,10.0
+557,Sarileru Neekevvaru,Drama,75.0,85.0,90.0,7.9,25.3,260.0
+558,Seethamma Vakitlo Sirimalle Chettu,Drama,50.0,75.0,80.0,8.4,3.8,51.0
+559,Sye,Drama,10.0,80.0,75.0,7.9,0.006,22.0
+560,Loveyapa,Drama,30.0,37.5,25.0,5.4,0.447,7.69
